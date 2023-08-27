@@ -1,0 +1,2929 @@
+﻿184  
+Phần 2. YÊU CẦU VỀ KỸ THUẬT  
+Chương V. YÊU CẦU VỀ KỸ THUẬT 
+Mục 1. Yêu cầu về kỹ thuật  
+1.1. Giới thiệu chung về dự án, gói thầu  
+- Thông tin về dự án và gói thầu:  
+- Tên gói thầu: Cung cấp, lắp đặt trang thiết bị dạy học.  
+- Dự án: Trang thiết bị dạy học các Trường Mầm non, Trường Tiểu học và  Trường Trung học cơ sở.  
+ - Địa điểm thực hiện: Trên địa bàn huyện Thới Lai, TP. Cần Thơ.   - Thời gian thực hiện gói thầu: 180 ngày. 
+ - Hình thức lựa chọn nhà thầu: Đấu thầu rộng rãi trong nước. Các nhà thầu  được mời theo thông báo mời thầu đăng trên trang http://muasamcong.mpi.gov.vn  và Báo đấu thầu của Bộ Kế hoạch và Đầu tư.  
+- Quy mô gói thầu: Cung cấp, lắp đặt trang thiết bị dạy học thuộc dự toán  mua sắm Trang thiết bị dạy học các Trường Mầm non, Trường Tiểu học và Trường  Trung học cơ sở. 
+1.2. Yêu cầu về kỹ thuật  
+a) Yêu cầu về kỹ thuật chung:  
+Tất cả các thiết bị phải đạt các yêu cầu sau đây:  
+- Chất lượng hàng hóa: Mới 100%; có chứng nhận chất lượng xuất xưởng  đối với hang hóa trong nước; xuất xứ hàng hóa (CO) và vận đơn (CQ) đối với hàng  hóa nước ngoài.  
+- Năm sản xuất: Tối thiểu năm 2022.  
+- Thế hệ công nghệ của thiết bị: Tiên tiến, mới 100%.  
+- Trang thiết bị phải tuân thủ theo các quy định về tiêu chuẩn hiện hành tại  các quốc gia hoặc vùng lãnh thổ mà hàng hóa có xuất xứ.  
+- Yêu cầu về kiểm tra, thử nghiệm, thông số kỹ thuật theo đúng tiêu chuẩn  của nhà sản xuất.  
+- Thực hiện nghiệm thu, vận hành thử thiết bị khi đưa vào sử dụng.  
+- Trong thời gian bảo hành, nếu thiết bị có trục trặc do hỏng hóc hay lắp đặt  không đúng, thì nhà thầu cung cấp thiết bị sẽ phải chịu mọi phí tổn để thay mới  hoặc khắc phục những hư hỏng trên.  
+- Có phương án cam kết bảo hành, kế hoạch bảo trì, chi phí bảo trì/năm và  phụ tùng thay thế bảo đảm cho thiết bị cung cấp sau thời gian bảo hành.
+185  
+b) Yêu cầu về kỹ thuật cụ thể như tính năng, thông số kỹ thuật, các bản vẽ,  cataloge, các thông số bảo hành. 
+186  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+1 TRƯỜNG TIỂU HỌC VÀ THCS VIỆN LÚA  
+A PHẦN TRANG THIẾT BỊ BÀN GHẾ  
+I KHỐI PHÒNG HỌC  
+1 Bàn học sinh hai chỗ ngồi (D 1,2 x R 0,40 x C 0,78)m  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D 1,2 x R 0,40 x C 0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Ván mặt bàn gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt bàn gỗ ghép nhóm IV ván dày 20mm  
+ Chân bàn : 40x50mm  
+ Gác chân : 30x50mm  
+ Ngăn bàn gỗ nhóm IV rộng 300mm dày 10mm  
+ Ván bao che ngăn bàn gỗ nhóm IV rộng 150mm dày 10mm
+2 
+	Ghế học sinh có tựa  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,35 x R0,32 x C1:0,41 x C2:0,80)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Ván mặt bàn gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế gỗ ghép nhóm IV ván dày 20mm  
+ Chân ghế: 30x40mm  
+ Tựa lưng bản 120mm, dày 10mm
+	
+
+	
+
+
+
+187  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+3 Bàn giáo viên: (Bàn 1 thùng, mặt trước bàn đóng vách kín)  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D1,2 x R0,6 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn: 30x80mm  
+ Chân bàn: 35x50mm  
+ Gác chân: 30x60mm  
+ Khóa cửa một thùng  
+ Cửa thùng, 2 hột bàn gỗ nhóm IV.  
+ Ván bao che mặt trước và hai bên hông bằng gỗ nhóm IV dày 15mm  
+ Mặt bàn kính trắng dày 5mm. 
+4 Ghế đai đầu bò  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế : 25x50mm  
+ Tựa lưng bản rộng 100mm, dày 12mm
+5 
+	Tủ đựng hồ sơ  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản: 
+	
+
+	
+
+
+
+188  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Kích thước: (D1000 x R450 x C1600) mm  
+ Vật liệu: Toàn bộ bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Phần trên có 3 ngăn mỗi ngăn cao 400mm  
+ Phần dưới có 2 khoang cao 500mm và 2 cánh cửa mở, có khóa.  
+ Đế tủ cao 100mm 
+6 Ti vi (LED 55 inch) + giá treo tường  
+ Loại tivi: Smart Tivi LG 4K 55 inch  
+ Ứng dụng sẵn có: Clip TV; FPT Play; Galaxy Play (Fim+); MyTV; Netflix; Nhaccuatui; POPS Kids; Spotify;  
+Trình duyệt web; TV 360; VieON; VTVcab ON; YouTube; YouTube Kids; Zing TV;  
+ Kết nối bàn phím, chuột: Bluetooth (Kết nối loa, thiết bị di động)  
+ Tính Năng Khác: ALG Voice Search - tìm kiếm bằng giọng nói tiếng Việt; Tìm kiếm giọng nói trên YouTube bằng  tiếng Việt; Nhận diện giọng nói LG Voice Recognition; Google Assistant (Chưa có tiếng Việt); Alexa (Chưa có  
+tiếng Việt)  
+ Cổng HDMI: 2 cổng HDMI có 1 cổng HDMI eARC (ARC)  
+ Cổng USB: 1 cổng  
+ Kích thước không chân, treo tường: Ngang 123.5 cm - Cao 71.5 cm - Dày 5.7 cm  
+ Bao gồm phụ kiện giá treo tường, dây diện và công lắp đặt  
+ Hàng chính hãng, đầy đủ CO, CQ 
+7 Dây và phụ kiện kết nối mạng cho tivi 
+ Dây kết nối mạng: 25m  
+ Dây HDMI: 10m  
+ Nẹp nhựa 2,0x1,0cm: 15m  
+ Đinh, ốc, vít, tắc kê …: 01 bộ  
+ Chi phí nhân công lắp đặt : 01 bộ
+8 
+	Bảng từ xanh chống lóa  
+ Kích thước : (D 3,60 x N 1,20)m  
+ Mặt bảng từ chống lóa màu xanh lá sậm có dòng kẻ mờ vuông 50×50 mm, được bảo vệ bằng một lớp nilon.   Khung bảng dày 4cm, sử dụng khung nhôm định hình cao cấp. Các góc nhựa vuốt tròn góc.   Tấm sau bảng bằng vật liệu panen nhựa, có khai để phấn và khăn lau.  
+ Có khay đựng phấn
+	
+
+	
+
+
+
+189  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Gắn trực tiếp lên tường. 
+II PHÒNG HỌP  
+1 Bàn họp hai chỗ ngồi 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,2 x R0,4 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  
+thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV (gỗ thông) dày 18mm  
+ Khung viền : 30x60mm  
+ Chân bàn : 35x50mm  
+ Gác chân : 30x60mm  
+ Ngăn bàn rộng 390mm: dày 15mm  
+ Ván bít 2 bên hông, ván mặt trước bằng gỗ nhóm IV dày 15mm  
+ Mặt bàn kính trắng dày 5mm 
+2 Ghế đai đầu bò 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế: 25x50mm  
+ Tựa lưng bản rộng 100mm, dày 12mm
+3 
+	Loa treo tường 
+ Loại loa: Loa Karaoke  
+Thông số kỹ thuật cơ bản:  
+ Công suất thực (RMS): 500W  
+ Công suất tối đa: 1000W  
+ Số đường tiếng của loa: 3 đường tiếng: (tiếng bass, tiếng treble, tiếng mid)  
+ Loa chính: Rộng 57,7cm - Cao 38cm - Sâu 32cm  
+ Kết cấu củ loa: 1 loa bass 30cm, 2 loa treble (7,6cm), 2 loa mid (7,6cm) 
+	
+
+	
+
+
+
+190  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Kiểu dáng: Loa ngang 
+ Kết nối: Cài dây 
+ Độ nhạy: 92dB 
+ Tần số: 45Hz ~ 20kHz (±3dB) 
+ Trở kháng: 8 ohms 
+ Chất liệu loa/ thùng: Gỗ MDF 
+ Hàng chính hãng, đầy đủ CO, CQ  
+* Bao gồm phụ kiện giá treo tường và công lắp đặt 
+4 Amply 
+ Loại amply: Amply karaoke  
+Thông số kỹ thuật cơ bản: 
+ Số lượng kênh: 2 kênh 
+ Công suất ra loa: 250W/CH (8ohms) / 350W/CH (4ohms) 
+ Tổng công suất: 500W/700W 
+ Tiện ích: Nghe nhạc, hát karaoke 
+ Công nghệ Echo: Kỹ thuật số tiên tiến 
+ Số sò: 12 - Sò Toshiba (Nhật Bản) 
+ Điện áp sử dụng: AC 220V/50Hz 
+ Trở kháng: 8Ohms/4Ohms 
+ Kết nối không dây: Bluetooth aptX 
+ Cổng ra loa: 4 
+ Cổng vào micro: 4 
+ Cổng kết nối: Analog, Optical, Coaxial, Pre-out và to-Amp 
+ Kích thước: 420(R) x 154(C) x 330(S) mm 
+ Trọng lượng: 11.8Kg/ 13Kg  
+5 Micro phát biểu (Dạng cổ ngỗng)  
+Thông số kỹ thuật cơ bản: 
+ Kiểu cổ ngỗng; Chiều dài cáp: 7m 
+ Chất liệu: Nhựa, hộp kim
+6 
+	Micro không dây SM (1bộ thu + 2 bộ micro) 
+- Loại: Micro không dây. 
+	
+
+	
+
+
+
+191  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Đáp tuyến tần số: 40Hz ~ 18KHz  
+ Hàng chính hãng, đầy đủ CO, CQ  
+7 Dây loa + Ống luồn dây  
+ Cấu tạo: 4 lớp, PVC chịu lực ngoài trời. vỏ giấy cacbon, sợi phủ ngăn 2 tác dụng, bọc loại PVC (phân biệt 2 màu  Trắng, Đỏ)  
+ Dạng sợi: Sợi tròn  
+ Chất liệu: 2 lõi đồng OFC, 100%  
+ Kích thước lõi: Hợp khối 2 lõi kích thước 2.5mm  
+ Dây tính theo cuộn 100m  
+ Nẹp nhựa (20 x 30)mm – 100m – Xuất xứ: Việt Nam 
+8 Bục tượng Bác  
+ Hàng gia công  
+ Kích thước : (D0,6 x R0,8 x C1,30)m  
+ Có chạm hoa văn  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện. 
+9 Tượng Bác Hồ  
+ Kích thước: (C80xR65xW40)cm 
+ Vật liệu: Toàn Bộ bằng thạch cao trắng 
+10 Bục phát biểu  
+ Hàng gia công  
+ Kích thước : (D0,6 x R0,8 x C1,30)m  
+ Có chân đế, Có chạm hoa văn  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện. 
+11 Màn hội trường  
+ Hàng gia công  
+ Kích thước: (D7,3 x C3,6)m  
+ Vật liệu: Vải thun xốp  
+ Màu sắc: Xanh lá
+12 
+	Cờ Đảng, Cờ nước Hội Trường  
+ Kích thước: (D1,5x C3,6)m 
+	
+
+	
+
+
+
+192  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Vật liệu: Vải thun xốp.  
+ Màu sắc: Màu đỏ 
+13 Sao búa liềm  
+ Chất liệu: Mica alu đồng vàng dày 3mm  
+ Kích thước: Đường kính 40mm 
+14 Khẩu hiệu ĐẢNG CỘNG SẢN VIỆT NAM QUANG VINH MUÔN NĂM!  
+ Kích thước: Dài 7,8m; Ngang 0,5m  
+ Vật liệu: Khung nhôm nền tôn dán decal, trước lợp meka trong, chữ meka nổi màu vàng, chiều dày cỡ chữ 4cm,  chiều cao chữ 35cm, nền màu đỏ, khung bằng sắt nẹp nhôm. 
+III PHÒNG HIỆU TRƯỞNG, HIỆU PHÓ  
+1 Bàn làm việc (Trưởng phó phòng)  
+ (Bàn 2 thùng, mặt trước bàn đóng vách kín)  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,6 x R0,8 x C0,8)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  
+thiện.  
+ Ván mặt bàn dày 18mm - Khung viền mặt bàn : 30x120mm  
+ Chân bàn : 40x50mm - Gác chân : 30x60mm  
+ Khóa cửa 2 thùng, có hộc bàn ở giữa. 
+ Mặt bàn kính trắng 8mm + Vải mặt bàn 
+2 Ghế chạm hoa văn (Trưởng phó phòng) 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,45 x R0,45 x C1: 0.49 x C2:1.45)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Ván mặt ghế dày 18mm  
+ Tựa lưng chạm hoa văn
+3 
+	Ghế sofa (Trưởng phòng) 
+ Hàng gia công 
+	
+
+	
+
+
+
+193  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+Thông số kỹ thuật cơ bản: 
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn kính 8mm + Sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Kích thước chi tiết:  
+ Ghế băng dài: 160/185 x 30/85 x 55/60cm.  
+ Ghế đơn: 55/80 x 30/85 x 55/60.  
+ Bàn: 110 x 47 x 55cm.  
+ Bàn nhỏ: 55 x 47 x 55cm. 
+4 Bàn tiếp khách 06 chỗ ngồi (mặt bàn kính 8mm) 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + sơn PU 3 lớp, phủ bóng hoàn thiện.  
+* Bàn:  
+ Kích thước : (N 0,8 x D 1,6 x C 0,7)m  
+ Mặt bàn rộng 620mm, dày12mm.  
+ Chân bàn: 80x80mm  
+ Kính trắng dày 8mm  
+* Ghế ngồi:  
+ Kích thước : (D0,4 x R0,44x C0.44)m  
+ Mặt ghế dày 18mm  
+ Chân ghế : 25x50mm  
+ Tựa thanh thẻ dày 12mm 
+5 Tủ đựng hồ sơ 
+ Hàng gia công  
+ Vật liệu: Toàn bộ bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Kích thước: (D1000 x R450 x C1900) mm  
+ Phần trên gồm 2 cánh cửa kính dày 5mm, có khóa, bên trong có 3 ngăn mỗi ngăn cao 500mm  
+ Phần dưới có 2 cánh cửa gỗ, có khóa, bên trong có 1 ngăn cao 600mm  
+ Đế tủ cao 100mm
+6 
+	Bộ máy tính để bàn  
+* Màn hình máy tính 
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD
+	
+
+	
+
+
+
+194  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)  
+ Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4  
+3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  
+connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  
+bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.  
+ Keyboard: Standard USB (Đồng bộ với thương hiệu)  
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu) 
+7 Máy in  
+Thông số kỹ thuật cơ bản:  
+ Kiểu máy in: In laser trắng đen  
+ Độ phân giải: 2400 x 600 dpi  
+ Kết nối: Cổng USB 2.0 tốc độ cao  
+ Khổ giấy in: A4, B5, A5, LGL, LTR, Executive, Giấy in bì thư C5/COM10/DL, Monarch 
+8 
+	Tủ lạnh  
+Thông số kỹ thuật  
+ Dung tích sử dụng: 130 lít - 1 - 2 người  
+ Công nghệ làm lạnh: Làm lạnh gián tiếp  
+ Công nghệ kháng khuẩn khử mùi: Nano Fresh Ag+  
+ Kích thước: Cao 124 cm - Rộng 48 cm - Sâu 60 cm - Nặng 33 kg 
+	
+
+	
+
+
+
+195  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+9 Máy điều hòa 1,0HP 
+Thông số kỹ thuật cơ bản:  
+ Công suất lạnh:1 HP - 9.000 BTU  
+ Loại máy: Điều hoà 1 chiều (chỉ làm lạnh)  
+ Phạm vi làm lạnh hiệu quả: Dưới 15 m2 (từ 30 đến 45 m3)  
+ Công nghệ Inverter: Máy lạnh Inverter  
+ Loại gas sử dụng: R-32  
+ Vật tư: Ống đồng, dây điện, CB, ốc vít, băng keo… 
+IV VĂN PHÒNG + KẾ TOÁN  
+1 Bàn giáo viên: (Bàn 2 thùng, mặt trước bàn đóng vách kín) 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,4 x R0,7 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  
+thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn : 30x60mm  
+ Đố thùng : 40x40mm - Ván thùng gỗ nhóm IV dày 15mm  
+ Gác chân : 30x60mm  
+ Mặt bàn kính trắng dày 5mm + Vải mặt bàn. 
+2 Ghế đai đầu bò 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế: 25x50mm  
+ Tựa lưng bản rộng 100mm, dày 12mm
+3 
+	Bộ máy tính để bàn  
+* Màn hình máy tính 
+ Kích thước 21.5" LED 
+	
+
+	
+
+
+
+196  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ Model: FPT Elead T12100i  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)  
+ Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4  
+3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  
+connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  
+bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.  
+ Keyboard: Standard USB (Đồng bộ với thương hiệu)  
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu)
+4 
+	Máy in  
+Thông số kỹ thuật cơ bản:  
+ Khổ giấy: A6; A5; A4  
+ Tốc độ bộ xử lý: 1200 MHz  
+ Bộ nhớ: 256MB  
+ Tốc độ in đen trắng: Lên đến 40 trang/phút  
+ In trang đầu tiên: As fast as 6.3 sec  
+ Màn hình: 2-line backlit LCD graphic display  
+ Độ phân giải: Up to 1200 x 1200 dpi  
+ Cổng giao tiếp: 1 Hi-Speed USB 2.0; 1 host USB at rear side; Gigabit Ethernet 10/100/1000BASE-T network; 
+	
+
+	
+
+
+
+197  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+802.11b/g/n / 2.4 / 5 GHZ Wi-Fi radio 
+ Khay giấy: Khay nạp giấy 100 tờ - Out put : 150 sheet  
+ Chu kỳ nhiệm vụ (hàng tháng, A4): Lên đến 80.000 trang  
+ Ngôn ngữ print: HP PCL 6, HP PCL 5c, HP postscript level 3 emulation, PDF, URF, PWG Raster  
+ Khả năng in di động: Apple AirPrint™; Google Cloud Print™; HP ePrint; HP Smart App; Mobile Apps; Mopria™  Certified; ROAM capable for easy printing; Wi-Fi® Direct printing  
+ Hệ điều hành tương thích: Windows Client OS (32/64 bit), Win10, Win8.1, Win 8 Basic, Win8 Pro, Win8  
+Enterprise, Win8 Enterprise N, Win7 Starter Edition SP1, UPD Win7 Ultimate, Mobile OS, iOS, Android, Mac,  
+Apple® macOS Sierra v10.12, Apple® macOS High Sierra v10.13, Apple® macOS Mojave v10.14 
+5 
+	Máy Photocopy 
+Thông số kỹ thuật cơ bản:  
+ Bao gồm:  
+ Mực MP2014S  
+ Chân máy 2015/2018  
+ Thông số chung:  
+ Phương thức in : Laser  
+ Chức năng: In-Scan-Copy  
+ Tốc độ sao chụp: 27 bản / phút  
+ Thời gian khởi động : 27 giây  
+ Thời gian in bản đầu tiên : 6.5 giây  
+ Màn hình điều khiển: màn hình thông tin SOP 7-inch  
+ Bộ nhớ tiêu chuẩn: 2GB + 16GB Micro SD  
+ Dung lượng khay ARDF: 100 tờ  
+ Trọng lượng thân máy: 46,5kg  
+ Kích thước: 587 x 581 x 677 mm  
+ Nguồn điện: 220-240v 50/60Hz  
+ Chức năng sao chụp  
+ Chia bộ điện tử: Có sẵn  
+ Chức năng đảo mặt bản gốc : Có sẵn (ARDF)  
+ Chức năng đảo mặt bản sao : Có sẵn (Duplex) 
+	
+
+	
+
+
+
+198  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ 
+
+
+	 Sao chụp liên tục đến 999 bản  
+ Độ phân giải copy : 600 x 600 dpi  
+ Tỷ lệ phóng thu: 25 - 400% tăng giảm từng 1%  
+ Chức năng in  
+ Bộ xử lý: ARM Cortex A53 800 MHz  
+ Ngôn ngữ in: có sẵn PCL5e/6, PDF  
+ Có sẵn chức năng: In /Scan màu(cổng mạng)  
+ Độ phân giải: 600 x 600 dpi  
+ Kết nối mạng: Ethernet (1000/100/10BASE), Wireless LAN IEEE802.11a/b/g/n), USB 2.0-Device (Type-B),  USB 2.0-Host.  
+ Ứng dụng hỗ trợ in di động (Mobile Print): Apple Airprint, Mopria, Google Cloud Print  
+ Hệ điều hành hỗ trợ : Windows® 7/8/8.1/10, Windows® Server 2003/ 2008/ 2012/2016, Mac OS X (V10.11 or  Later), UNIX Sun® Solaris, HP-UX, SCO OpenServer, RedHat® Linux, IBM® AIX. Sap® R/3, Sap® S/4®   Chức năng Scan  
+ Tốc độ Scan: 50 trang /phút (trắng đen/màu).  
+ Độ phân giải: 600 dpi  
+ Định dạng tập tin gửi: Đơn và đa trang TIFF  
+ Đơn và đa trang PDF  
+ Trang đơn JPEG (greyscale)  
+ Đơn và đa trang PDF chất lượng nén cao  
+ Scan đến: Floder, Email, Network twain và USB  
+ Xử lý giấy  
+ Khổ giấy hỗ trợ: A3,A4,A5,A6,B4,B5,B6  
+ Khay giấy đầu vào tiêu chuẩn : 1 khay x 500 tờ  
+ Dung lượng giấy đầu ra: 250 tờ  
+ Khay Tay: 100 tờ  
+ Định lượng giấy: khay trong 52-105 g/m2 
+ Khay tay 60-216g/m2 
+ Nguồn điện  
+ Mức độ tiêu thụ điện công suất tối đa ít hơn 1.550 W 
+	
+
+	
+
+
+
+199  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ - Chế độ chờ ít hơn 113 W  
+ - Chế độ nghỉ ít hơn 4 W  
+ - Mức tiêu thụ điện năng (TEC) ít hơn 1,309 KWh  
+ Hệ thống tái sử dụng mực thải giúp tiết kiệm mực,  
+ thân thiện môi trường  
+ Công suất sao chụp: 10,000 bản /tháng  
+ Năm sản xuất : 2022 trở về sau 
+6 Tủ đựng hồ sơ  
+ Hàng gia công  
+ Vật liệu: Toàn bộ bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Kích thước: (D1000 x R450 x C1900) mm  
+ Phần trên gồm 2 cánh cửa kính dày 5mm, có khóa, bên trong có 3 ngăn mỗi ngăn cao 500mm  
+ Phần dưới có 2 cánh cửa gỗ, có khóa, bên trong có 1 ngăn cao 600mm  
+ Đế tủ cao 100mm 
+V PHÒNG Y TẾ + HỖ TRỢ HSKT  
+1 Bàn giáo viên: (Bàn 2 thùng, mặt trước bàn đóng vách kín) 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,4 x R0,7 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  
+thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn : 30x60mm  
+ Đố thùng : 40x40mm - Ván thùng gỗ nhóm IV dày 15mm  
+ Gác chân : 30x60mm  
+ Mặt bàn kính trắng dày 5mm + Vải mặt bàn.
+2 
+	Ghế đai đầu bò 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.
+	
+
+	
+
+
+
+200  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế : 25x50mm  
+ Tựa lưng bản rộng 100mm, dày 12mm 
+3 Tủ thuốc 5 tầng  
+ Hàng gia công  
+ Gồm 2 khoang:  
+ Khoang trên cao 900mm có 2 cánh lắp kính màu trắng dầy 5mm, có khoá, có chốt chắc chắn.  
+ Có 2 đợt kính dầy 5mm.  
+ Khoang dưới cao 600mm có 2 cánh bằng inox, có chốt và khoá chắc chắn; có 1 sàn phẳng bằng kính 5mm.  
+ Khung tủ làm bằng inox hộp 25x25mm.  
+ Khung cánh tủ làm bằng inox hộp 20x20mm.  
+ Cánh tủ có tay nắm inox, đóng mở nhẹ nhàng.  
+ Tủ được làm bằng inox có độ bóng BA.  
+ Các chân tủ có đệm cao su. 
+4 Giường bệnh nhân  
+ Hàng gia công  
+ Giát giường được chia thành 4 khúc  
+ Kích thước: (1.900 x 900 x 550)mm (DxRxC)  
+ Khung giường: Thành hộp rộng (30 x 60 x 0.6)mm  
+ Đầu và đuôi giường: Ống inox dày 0.8 mm, f32mm  
+ Giát giường: Dày 0,6mm, d= 16mm  
+ Thanh đỡ giát giường: dày 0,6mm, vuông 20mm  
+ Có tay quay để nâng đầu giường góc độ từ 0 đến 75 độ, nâng đuôi giường góc từ 0 đến 35 độ  
+ Có 04 bánh xe 100mm (02 bánh xe có khoá)  
+ Kết cấu giữa đầu giường, khung giường, đuôi giường bulon M8 theo  
+ Kiểu chữ A hoặc côn sập.  
+ Nệm bọc simily dày 7cm.
+5 
+	Xe đẩy ngồi (Dành cho người khuyết tật)  
+ Xe có gắn 2 vòng lăn hai bên, giúp cho việc tự di chuyển  
+ Có hai tay đẩy phía sau để có người nhà giúp di chuyển dễ dàng. 
+	
+
+	
+
+
+
+201  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Độ rộng ghế ngồi: 46cm 
+ Khung xe làm bằng sắt mạ crom. 
+ Chỗ ngồi bằng chất liệu da simili màu đen. 
+ Tấm đặt chân bằng nhôm đúc hợp kim 
+ Vành xe nan hoa tải trọng 120 kg 
+ Bánh trước rộng 8″, xoay 360o 
+ Bánh sau 24", bánh đặc 
+ Trọng lượng tịnh: 17,3kg 
+ Trọng lượng tổng: 19,3kg 
+ Sản phẩm đạt các chứng chỉ: FDA của Mỹ, TUV, ISO 9001, ISO 13485 : 2003
+6 
+	Máy lọc nước nóng lạnh  
+Thông số kỹ thuật cơ bản: 
+ Công nghệ lọc: Thẩm thấu ngược RO 
+ Số lõi lọc: 10 lõi 
+ Lõi lọc thô: 
+ Lõi 1: PP 5 micron (Sx Việt Nam) 
+ Lõi 2: Than hoạt tính (Sx Việt Nam) 
+ Lõi 3: PP 1 micron (Sx Việt Nam) 
+ Lõi RO/Nano/UF: RO 75 GPD sản xuất Hàn Quốc 
+ Lõi chức năng: 
+ Lõi 5: Nano Sliver (Sx Việt Nam) 
+ Lõi 6: Đá Maifan (Sx Việt Nam) 
+ Lõi 7: Alkaline (Sx Việt Nam) 
+ Lõi 8: Hồng Ngoại (Sx Việt Nam) 
+ Lõi 9: Hydrogen (Sx Việt Nam) 
+ Lõi 10: Than hoạt tính trắng (Sx Việt Nam) 
+ Bảng điều khiển: Nút vặn 
+ Chỉ số nước: pH Không 
+ Dung tích bình chứa: Tổng 7 lít (Nước nóng 1 lit, nước lạnh 2 lít, nước thường 4 lít) 
+ Tỉ lệ lọc - thải: Lọc 3 - Thải 7 
+	
+
+	
+
+
+
+202  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Công suất lọc nước: 10 - 15 lít/giờ  
+ Công suất tiêu thụ điện: 0.62 kW/h  
+ Áp lực nước yêu cầu: > 3 psi  
+ Kháng khuẩn: Lõi Nano Sliver kháng khuẩn  
+ Nhiệt độ nước: Nóng 85 - 95°C, Lạnh 10 - 15°C  
+ Hệ thống làm lạnh: Bằng công nghệ Block  
+ Hệ thống bơm và van điều tiết: Bơm - hút 2 chiều, van điện từ  
+ Kích thước: Ngang 32 cm - Cao 100 cm - Sâu 40 cm - Nặng 32 kg.  
+ Tiện ích:  
+ Chế độ cút nối nhanh dễ dàng thay lõi 
+ Ngừng hoạt động khi nước đầy bình 
+ Trung hòa độ pH ổn định độ ngọt cho nước 
+ Tạo nước kiềm (Alkaline) trung hòa axit cho cơ thể 
+VI PHÒNG TRUYỀN THỐNG + ĐOÀN THỂ  
+1 Bộ bàn ghế inox mặt kiếng chân phi thuyền cao cấp 1,6m  
+(Khung inox, mặt bàn kính 10mm)  
+ Vật liệu: Inox 304  
+ Kích thước:  
+ Mặt bàn: 1,6x1,0m  
+ 6 ghế: Ø25x1,0mm; cao 1,6m, bọc nệm  
+ Mặt bàn kính trắng 10 mm
+2 
+	Tủ trưng bày sách  
+ Hàng gia công  
+ Kích thước: (C1,6 x D2,0 x W0,45)m  
+ Vật liệu: Khung và vách sau gỗ nhóm IV + sơn Pu 3 lớp, phủ bóng hoàn thiện  
+ Trên có 04 cánh cửa lùa chia 04 khoang, 02 ngăn riêng biệt gỗ nhóm IV và cửa đẩy kính 5mm + ổ khóa, mỗi  khoang cách nhau cao 0,3m  
+ Dưới có 04 cánh cửa mở, 02 ngăn riêng biệt bằng gỗ nhóm IV + ổ khóa, cao 0,4m.
+	
+
+	
+
+
+
+203  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+3 Tủ trưng bày sách (01 ngăn + 01 hộc)  
+ Hàng gia công  
+ Kích thước: (C1,2 x D2,0 x W0,45)m  
+ Vật liệu: Khung và vách sau gỗ nhóm IV + sơn PU 3 lớp, phủ bóng hoàn thiện  
+ Trên có 02 cánh cửa lùa gỗ nhóm IV và cửa đẩy kính 5mm + ổ khóa, cao 0,4m  
+ Dưới có 04 cánh cửa mở, 02 ngăn riêng biệt, có 02 khoang bằng gỗ nhóm IV + ổ khóa, cao 0,8m. 
+4 Bàn trưng bày mô hình trường học  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D1,5 x R0,8 x C0,85)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV (gỗ thông) + Sơn PU 3 lớp, phủ bóng  hoàn thiện.  
+ Mặt bàn bằng gỗ ghép IV (gỗ thông) rộng 720mm, dày 12mm.  
+ Viền mặt bàn : 30x140mm  
+ Chân bàn : 85x85mm  
+ Kiềng mặt bàn: 25x150mm  
+ Thanh ngang gác mặt bàn: 20x40mm  
+ Khung kính trắng dày 8mm, cao 500mm  
+ Mặt bàn lót trong khung kính vải nhung màu đỏ 
+5 Bục tượng Bác  
+ Hàng gia công  
+ Kích thước : (D0,6 x R0,8 x C1,30)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV - Có chạm hoa văn  
+ Sơn PU 3 lớp, phủ bóng hoàn thiện. 
+6 Tượng Bác Hồ 
+ Kích thước: (C80xR65xW40)cm  
+ Vật liệu: Toàn Bộ bằng thạch cao trắng
+7 
+	Bảng "NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM!" 
+ Kích thước: (0,5m x 6,0m)  
+ Vật liệu: Mica trong suốt loại tốt, dán decal nội dung, chữ vàng, nền màu đỏ, khung bằng sắt nẹp nhôm.
+	
+
+	
+
+
+
+204  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+8 Màn Cờ Đảng, Cờ nước Hội Trường  
+ Kích thước: (D1,5 x C3,6)m  
+ Vật liệu: Vải thun xốp.  
+ Màu sắc: Màu đỏ 
+9 Sao búa liềm  
+ Chất liệu: Mica alu đồng vàng dày 3mm  
+ Kích thước: Đường kính 40mm 
+10 Bảng câu khẩu hiệu 
+ Kích thước: (3,75 x 0,4)m  
+ Tiêu đề:  
+Bảng 1: "DÙ KHÓ KHĂN ĐẾN ĐÂU CŨNG PHẢI THI ĐUA DẠY TỐT HỌC TỐT"  
+Bảng 2: "DÂN TA PHẢI BIẾT SỬ TA CHO TƯỜNG GỐC TÍCH NƯỚC NHÀ VIỆT NAM"  
+ Vật liệu: Mica trong suốt loại tốt, dán decal nội dung, chữ vàng, nền màu đỏ, khung bằng sắt nẹp nhôm. 
+VII PHÒNG NGHỈ GIÁO VIÊN  
+1 Bộ bàn ghế inox mặt kiếng chân phi thuyền cao cấp 1,6m  
+(Khung inox, mặt bàn kính 10mm)  
+ Vật liệu: Inox 304  
+ Kích thước:  
+ Mặt bàn: 1,6x1,0m  
+ 6 ghế: Ø25x1,0mm; cao 1,6m, bọc nệm  
+ Mặt bàn kính trắng 10 mm 
+2 Tủ locker 18 ngăn  
+ Hãng sản xuất Hoà Phát - TMG983-6K  
+ Kích thước: W1807 x D350 x H1132 mm  
+ Chất liệu: Thép sơn tĩnh điện  
+ Màu sắc: Xanh và Ghi sáng  
+ Tủ Locker sắt để đồ Hòa Phát  
+ Tủ gồm 18 khoang cánh mở.  
+ Trên mỗi cánh có 1 khóa locker, núm tay nắm và bảng tên.
+VIII 
+	PHÒNG ĐỌC GIÁO VIÊN 
+	
+
+	
+
+
+
+205  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+1 Bộ bàn ghế inox mặt kiếng chân phi thuyền cao cấp 1,6m  
+(Khung inox, mặt bàn kính 10mm)  
+ Vật liệu: Inox 304  
+ Kích thước:  
+ Mặt bàn: 1,6x1,0m  
+ 6 ghế: Ø25x1,0mm; cao 1,6m, bọc nệm  
+ Mặt bàn kính trắng 10 mm  
+IX PHÒNG ĐỌC HỌC SINH + KHO  
+1 Bàn đọc sách thư viện (6 chỗ ngồi)  
+ Hàng gia công  
+ Vật liệu: Chân thép hộp + Mặt bàn gỗ ghép nhóm IV (gỗ ghép) + sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Kích thước: (D1,8m x R0,8m x C0,75m).  
+ Ván mặt bàn dày 20mm  
+ Vách ngăn bàn cao 400cm dày 20mm  
+ Chân thép hộp 20x30mm, dày 1,2mm 
+2 Ghế xếp Inox  
+Mã hàng: Hòa Phát - G01I  
+ Chất liệu: Chân Inox, đệm PVC  
+ Kích thước: W445 x D505 x H850mm  
+ Khung ống inox Ø22.  
+ Đệm ngồi, Tựa lưng mút bọc nỉ, Chân đệm cao su  
+ Màu sắc: Màu xanh dương
+3 
+	Bàn giáo viên: (Bàn 1 thùng, mặt trước bàn đóng vách kín) 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,2 x R0,6 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn: 30x80mm
+	
+
+	
+
+
+
+206  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Chân bàn : 35x50mm, Gác chân : 30x60mm  
+ Khóa cửa một thùng  
+ Cửa thùng, 2 hột bàn gỗ nhóm IV.  
+ Ván bao che mặt trước và hai bên hông bằng gỗ nhóm IV dày 15mm 
+ Mặt bàn kính trắng dày 5mm. 
+4 Ghế đai đầu bò  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế : 25x50mm 
+ Tựa lưng bản rộng 100mm, dày 12mm 
+5 Giá sách thư viện  
+ (4 tầng)  
+ Kích thước: (DxRxC): 2000 x 400 x 1900 (mm)  
+ Giá sách hai khoang 4 ngăn.  
+ Khung ống thép sơn tĩnh điện, đợt gỗ melamine dày 18mm 
+6 Tủ trưng bày sách  
+ Hàng gia công  
+ Kích thước: (C1,6 x D2,0 x W0,45)m  
+ Vật liệu: Khung và vách sau gỗ nhóm IV + sơn Pu 3 lớp, phủ bóng hoàn thiện  
+ Trên có 04 cánh cửa lùa chia 04 khoang, 02 ngăn riêng biệt gỗ nhóm IV và cửa đẩy kính 5mm + ổ khóa, mỗi  
+khoang cách nhau cao 0,3m 
+ Dưới có 04 cánh cửa mở, 02 ngăn riêng biệt bằng gỗ nhóm IV + ổ khóa, cao 0,4m.
+7 
+	Tủ phích thư viện (16 hộc)  
+ Hàng gia công  
+ Kích thước: D1000xR700xC460mm  
+ Có 16 hộc tủ nhỏ  
+ Tủ làm Toàn bằng gỗ ghép nhóm IV + sơn phủ PU 3 lớp, phủ bóng hoàn thiện 
+	
+
+	
+
+
+
+207  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Chân kê gỗ tự nhiên cao 0.70m 
+8 Bảng nội quy thư viện  
+ Hàng gia công  
+ Kích thước: (D0,8m x C1,2m).  
+ Khung sắt vuông 20 mạ kẽm loại dày, viền nhôm, nền tol, chữ đề can. Nền trắng chữ xanh. 
+B THIẾT BỊ PHÔNG MÀN  
+1 Màn cửa sổ S1 (1,6x1,5)m  
+ Hàng gia công  
+ Kích thước: (D1,6 x C1,5) x 34  
+ Chất liệu vải: Vải gấm in họa tiết  
+ Phụ kiện: Thanh treo nhôm sơn tĩnh điện 32 dày 1,2mm, khoen rèm…. 
+2 Màn cửa sổ S2 (2,8x1,5)m  
+ Hàng gia công  
+ Kích thước: (D2,8x C1,5) x 43  
+ Chất liệu vải: Vải gấm in họa tiết  
+ Phụ kiện: Thanh treo nhôm sơn tĩnh điện 32 dày 1,2mm, khoen rèm…. 
+C PHẦN THIẾT BỊ DẠY HỌC  
+I THIẾT BỊ PHÒNG MÁY VI TÍNH (01 phòng) 
+1 
+	Bộ máy tính để bàn  
+* Màn hình máy tính 
+ Model: F22FAH (F22FA-D)  
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)   Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4 
+	
+
+	
+
+
+
+208  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  
+connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  
+bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.  
+ Keyboard: Standard USB (Đồng bộ với thương hiệu)  
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu)
+2 
+	Ti vi 4K 75 inch + giá treo tường  
+ Độ phân giải: 4K (Ultra HD)  
+ Ứng dụng phổ biến: Clip TV, FPT Play, Galaxy Play (Fim+, )MyTV, Netflix, Nhaccuatui, POPS KidsSpotify,  Trình duyệt web, TV 360, VieON, VTVcab ON, YouTube, YouTube KidsZing TV  
+ Công nghệ hình ảnh: Active HDR, Chế độ game HGiG, Chế độ hình ảnh phù hợp nội dung, FilmMaker Mode,  Chống xé hình FreeSync Premium, Color Consistency, Dải màu rộng Nano Color Pro, Giảm độ trễ chơi game Auto  Low Latency Mode (ALLM), HDR Dynamic Tone Mapping, HDR10 Pro, Hiển thị màu rực rỡ Quantum Dot  NanoCell Color, HLG, Kiểm soát đèn nền - Local Dimming, Motion Pro, Nâng cấp hình ảnh AI Picture Pro 4K,  Nâng cấp độ phân giải 4K AI Upscaling, Tương thích bộ mã hóa Video decoder (VP9, AV1), Tương thích HEVC  
+ Điều khiển bằng giọng nói: Alexa (Chưa có tiếng Việt), Google Assistant (Chưa có tiếng Việt), LG Voice Search -  tìm kiếm bằng giọng nói tiếng Việt, Nhận diện giọng nói LG Voice Recognition, Tìm kiếm giọng nói trên  YouTube bằng tiếng Việt  
+ Remote thông minh: Magic Remote  
+ Chiếu hình từ điện thoại lên TV: AirPlay 2, Screen Mirroring  
+ Kết nối internet: Cổng mạng LAN, Wifi  
+ Kết nối không dây: Bluetooth (Kết nối loa, thiết bị di động)  
+ USB: 2 cổng USB A 
+	
+
+	
+
+
+
+209  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Cổng nhận hình ảnh, âm thanh: 4 cổng HDMI có 1 cổng HDMI eARC (ARC)  
+ Cổng xuất âm thanh: 1 cổng Optical (Digital Audio), 1 cổng eARC (ARC)  
+ Kích thước không chân, treo tường: Ngang 167.5 cm - Cao 96.4 cm - Dày 4.45 cm  
+* Bao gồm phụ kiện giá treo tường, dây điện, dây tín hiệu và công lắp đặt 
+3 Bàn máy tính học sinh: (1 bàn 02 chỗ ngồi, có ngăn bàn để CPU, phụ kiện) 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản  
+ Kích thước (D x R x C): 1600 x 500 x 750 (mm)  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Mặt bàn ván gỗ ghép nhóm IV dày 20mm  
+ Thành vách ngăn cao 400mm 03 vách, vát góc 45 độ : 03 vách, được ngàm vào mặt bàn.  
+ Ngăn bàn đóng thanh hở cho thoát nhiệt CPU rộng 400mm,  
+ Chân bàn : 35x50mm  
+ Gách chân : 30x50mm  
+ Đảm Bảo mỹ quan, chắc chắn khi sử dụng 
+4 Ghế xếp Inox  
+ Chất liệu: Chân Inox, đệm PVC  
+ Kích thước: W445 x D505 x H850mm  
+ Khung ống inox Ø22.  
+ Đệm ngồi, Tựa lưng mút bọc nỉ, Chân đệm cao su 
+ Màu sắc: Màu xanh dương 
+5 Tai nghe (Đen, Đỏ)  
+ Thiết Kế: Over Ear (trùm kín quanh tai)  
+ Kết Nối: Jack 3.5mm (audio) / Jack 3.5mm (mic)  
+ Chức Năng: Volume Control / Microphone Mute  
+ Màu sắc: Đen đỏ
+6 
+	Phần mềm hỗ trợ quản lý, giảng dạy dùng cho giáo viên và học sinh cấp 2 (14 học sinh)  
+Phần mềm quản lý phòng học  
+ Mô tả: Phần mềm chuyên dụng để quản lý lớp học từ xa cho giáo viên. Giáo viên có thể giám sát, hướng dẫn và tương 
+	
+
+	
+
+
+
+210  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ 
+
+
+	tác với cả lớp, với nhóm hoặc 1 học sinh một cách trực quan và nhanh chóng.  
+ Tính năng:  
+ Giám sát lớp học: Có thể quản lý, kiểm soát, hiển thị màn hình hoạt động của cả lớp, của mỗi học sinh, của mỗi  nhóm.  
+ Quản lý nhóm: Giáo viên có thể phân chia lớp học của mình thành nhiều nhóm khác nhau, sắp xếp, chỉnh sửa  nhóm cho phù hợp với học lực của học sinh, các học sinh cùng cộng tác với nhau cùng nhau tiến bộ.   Trình diễn: màn hình của giáo viên sẽ được chia sẻ cho cả lớp (hoặc nhóm) và giáo viên giảng bài qua microphone,  học sinh có thể lắng nghe và chat để phản hồi.  
+ Kiểm soát internet: cho phép hoặc ngăn chặn học sinh truy cập trình duyệt theo ý muốn của giáo viên, đồng thời  phần mềm có thể giới hạn thời gian truy cập web của học sinh.  
+ Điều khiển: Điều khiển chuột, phím và giao tiếp bằng lời nói với máy học sinh theo 3 chế độ:   Chế độ Share: Giáo viên và học sinh cùng có thể điều khiển chuột và phím.  
+ Chế độ Watch: Giáo viên chỉ xem hoạt động học sinh, không được phép điều khiển.  
+ Chế độ Control: Giáo viên có thể sử dụng chuột và phím, học sinh chỉ được quyền xem.  
+ Kiểm soát ứng dụng: quản lý các phần mềm đang chạy trên máy học sinh (tương tự như tính năng kiểm soát quyền  truy cập internet)  
+ Tắt/mở máy, logout, khóa chuột và phím của cả lớp chỉ bằng 1 cú nhấp chuột, tiết kiệm tối đa thời gian khởi động/  tắt máy.  
+ Gửi file, tài liệu, thông báo đến cả lớp (hoặc cá nhân và từng nhóm).  
+ Có thể chia sẻ màn hình 1 học sinh cho cả lớp quan sát.  
+ Tắt/ mở các thiết bị ngoại vi của học sinh (USB, Microphone, Headphone, CD/DVD,..).  
+ Chat riêng với 1 học sinh hoặc 1 nhóm học sinh, đảm bảo tính riêng tư khi cần thiết.  
+ Mỗi giáo viên có thể quản lý nhiều lớp học khác nhau, tạo danh sách lớp theo nhu cầu.  
+ Khảo sát ý kiến, đặt câu hỏi cho học sinh và xuất bản báo cáo câu trả lời.  
+ Thiết kế bài kiểm tra: tạo bài kiểm tra cho cả lớp theo nhiều dạng khác nhau như: chọn câu đúng, kéo thả câu trả  lời, tích hợp âm thanh và hình ảnh vào từng câu hỏi. Quy định được thời gian suy nghĩ và giới hạn thời gian làm  bài kiểm tra.  
+ Công cụ Whiteboard: Ngoài việc trình bày trên các phần mềm soạn thảo bài giảng (Powerpoint, Active Inspire, ..) giáo  viên có thể sử dụng Whiteboard. Giáo viên có thể viết trực tiếp trên Bảng tương tác (hoặc tivi đa chạm) thông qua các  công cụ bút vẽ, bút hightlight, tô màu, đánh chữ, định dạng chữ, cục tẩy xóa đối tượng, vẽ các đường cong gấp khúc, 
+	
+
+	
+
+
+
+211  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+chèn hình ảnh, ... 
+7 Thiết bị chuyển mạng 
+ Ports: 50 x 10/100/1000 + 2 x combo Gigabit SFP  
+ Bộ nhớ flash: 16 MB  
+ VLANs: Support for up to 4096 VLANs simultaneously  
+ Tiêu chuẩn: IEEE 802.3 10BASE-T Ethernet, IEEE 802.3u 100BASE-TX Fast Ethernet, IEEE 802.3ab  
+1000BASE-T Gigabit Ethernet, IEEE 802.3ad LACP, IEEE 802.3z Gigabit Ethernet, IEEE 802.3x Flow Control,  
+IEEE 802.1D (STP, GARP, and GVRP),IEEE 802.1Q/p VLAN, IEEE 802.1w RSTP, IEEE 802.1s Multiple STP,  
+IEEE 802.1X Port Access Authentication, IEEE 802.3af, IEEE 802.3at 
+8 Hệ Thống điện và Internet  
+ Ổ cắm điện (4 ổ): 14 cái  
+ Ổ cắm điện 6 lỗ: 1 cái  
+ Dây điện 4,0: 20m  
+ Dây điện 1.5: 50m  
+ Dây kết nối mạng: 100m  
+ Nẹp nhựa 8x6cm: 50m  
+ Nẹp nhựa 3x1,5cm: 40m  
+ Nẹp bán nguyệt: 20m  
+ Đinh, ốc, vít, tắc kê …: 01 bộ  
+ Chi phí nhân công lắp đặt : 01 bộ 
+9 Máy điều hòa 2,0HP 
+Thông số kỹ thuật cơ bản:  
+ Công suất lạnh: 2 HP - 18.000 BTU  
+ Loại máy: Điều hoà 1 chiều (chỉ làm lạnh)  
+ Phạm vi làm lạnh hiệu quả: Từ 20 - 30 m2 (từ 60 đến 80 m3)  
+ Công nghệ Inverter: Máy lạnh Inverter  
+ Loại gas sử dụng: R-32  
+ Vật tư: Ống đồng, dây điện, CB, ốc vít, băng keo… 
+II PHÒNG NGOẠI NGỮ 
+1 
+	Bàn giáo viên: (Bàn 1 thùng, mặt trước bàn đóng vách kín) 
+	
+
+	
+
+
+
+212  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,2 x R0,6 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn: 30x80mm  
+ Chân bàn : 35x50mm, Gác chân : 30x60mm  
+ Khóa cửa một thùng  
+ Cửa thùng, 2 hột bàn gỗ nhóm IV.  
+ Ván bao che mặt trước và hai bên hông bằng gỗ nhóm IV dày 15mm 
+ Mặt bàn kính trắng dày 5mm. 
+2 Ghế xoay lưới  
+ Kích thước: W590 x D595 x H960 -1040 mm  
+ Chất liệu: Khung tựa nhựa bọc vải lưới, chân mạ  
+ Mặt ghế lưới có đệm mút bọc PVC hoặc vải êm ái khi ngồi  
+ Chân mạ, chân ghế có gắn nút cao su chống trượt chống trầy xước với mặt sàn 
+ Khung tựa bọc vải lưới. Tay cầm được thiết kế kiểu cách bằng thép ốp nhựa
+3 
+	Bộ máy tính để bàn  
+ * Màn hình máy tính 
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i5 12400 Processor (2.50Ghz Max Turbo 4.40GHz/18MB Intel® Smart Cache/6C/12T)   Bộ Mạch chủ : Chipset Intel H610 Express LGA1700 S/p Intel Core I7 + I5 + I3 (Đồng bộ với thương hiệu máy  tính) 
+	
+
+	
+
+
+
+213  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Khe cắm bộ nhớ: 6 x DIMM DDR4 3200/3000/2933/2800/2666MHz support Intel(R) XMP  
+ Cổng Giao tiếp: 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1 x  HDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 at midboard, 2 x USB 2.0 port at rear panel), 1 x M.2  2280, 2260, 2242 (both SATA & x2 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out connector, 1 x Chassis  intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware  
+ Đồ họa: Integrated Graphics Processor- Intel® Graphics support; Multi-VGA output support : HDMI/DVI-D/D Sub/DisplayPort ports  
+ Âm thanh: Sound 08 Channel  
+ Cổng mạng: LANGUARD Gigabit onboard  
+ Bộ nhớ: DDR4 4GB bus 2666  
+ Ổ cứng: SSD 256GB  
+ Vỏ máy và nguồn: mATX with PSU 550W (Đồng bộ với thương hiệu máy tính)  
+ Bàn phím: Standard (Đồng bộ với thương hiệu máy tính)  
+ Chuột: Optical (Đồng bộ với thương hiệu máy tính)  
+4 Bàn học sinh lục giác  
+ Hàng gia công  
+ Kích thước: (D2,35xR2,078xC75)m  
+ Vật liệu: Mặt gỗ ghép nhóm IV, chân thép hộp + Sơn PU 3 lớp hoàn thiện  
+ Kích thước mặt bàn 60x115cm, cao 75cm cắt cạnh  
+ Chân sắt sơn tĩnh điện hộp 40x40mm  
+ Khung sắt dày 1,2mm vô cùng chắc chắn 
+5 Ghế xếp Inox  
+Chất liệu: Chân Inox, đệm PVC  
+ Kích thước: W445 x D505 x H850mm  
+ Khung ống inox Ø22.  
+ Đệm ngồi, Tựa lưng mút bọc nỉ, Chân đệm cao su 
+ Màu sắc: Màu xanh dương
+6 
+	Loa treo tường  
+ Loại loa: Loa Karaoke 
+	
+
+	
+
+
+
+214  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+Thông số kỹ thuật cơ bản: 
+ Công suất thực (RMS): 500W 
+ Công suất tối đa: 1000W 
+ Số đường tiếng của loa: 3 đường tiếng: (tiếng bass, tiếng treble, tiếng mid) 
+ Loa chính: Rộng 57,7cm - Cao 38cm - Sâu 32cm 
+ Kết cấu củ loa: 1 loa bass 30cm, 2 loa treble (7,6cm), 2 loa mid (7,6cm) 
+ Kiểu dáng: Loa ngang 
+ Kết nối: Cài dây 
+ Độ nhạy: 92dB 
+ Tần số: 45Hz ~ 20kHz (±3dB) 
+ Trở kháng: 8 ohms 
+ Chất liệu loa/ thùng: Gỗ MDF 
+ Hàng chính hãng, đầy đủ CO, CQ  
+* Bao gồm phụ kiện giá treo tường và công lắp đặt
+7 
+	Amply  
+Thông số kỹ thuật cơ bản: 
+ Loại amply: Amply karaoke 
+ Số lượng kênh: 2 kênh 
+ Công suất ra loa: 250W/CH (8ohms) / 350W/CH (4ohms) 
+ Tổng công suất: 500W/700W 
+ Tiện ích: Nghe nhạc, hát karaoke 
+ Công nghệ Echo: Kỹ thuật số tiên tiến 
+ Số sò: 12 
+ Loại sò: Sò Toshiba (Nhật Bản) 
+ Điện áp sử dụng: AC 220V/50Hz 
+ Trở kháng: 8ohms/4ohms 
+ Kết nối không dây: Bluetooth aptX 
+ Cổng ra loa: 4 
+ Cổng vào micro: 4 
+ Cổng kết nối: Analog, Optical, Coaxial, Pre-out và to-Amp 
+	
+
+	
+
+
+
+215  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Kích thước: 420(R) x 154(C) x 330(S) mm  
+ Trọng lượng: 11.8Kg/ 13Kg 
+8 Micro phát biểu (Dạng cổ ngỗng) 
+Thông số kỹ thuật cơ bản:  
+ Kiểu cổ ngỗng; Chiều dài cáp: 7m  
+ Chất liệu: Nhựa, hộp kim 
+9 Dây loa + Ống luồn dây 
+ Cấu tạo: 4 lớp, PVC chịu lực ngoài trời. vỏ giấy cacbon, sợi phủ ngăn 2 tác dụng, bọc loại PVC (phân biệt 2 màu  Trắng, Đỏ)  
+ Dạng sợi: Sợi tròn  
+ Chất liệu: 2 lõi đồng OFC, 100%  
+ Kích thước lõi: Hợp khối 2 lõi kích thước 2.5mm  
+ Dây tính theo cuộn 30m  
+ Nẹp nhựa (20 x 30)mm – 30m – Xuất xứ: Việt Nam 
+10 Máy cassette  
+ Đài FM / AM (FM / DAB +).  
+ Hỗ trợ đĩa CD / CD-R / CD-RWMP3  
+ Jack đầu vào âm thanh AUX, có thể được kết nối với máy tính di động để sử dụng làm loa  
+ Hỗ trợ chức năng USB, bạn có thể chèn đĩa U  
+ Tăng âm trầm DBB  
+ Phát lại vòng lặp đơn / tất cả, phát ngẫu nhiên  
+ DC 6V (sử dụng 6 pin số 2) hoặc cắm trực tiếp (220V / 50Hz).  
+ Kích thước: khoảng 26cm * 22cm * 11cm  
+ Trọng lượng: khoảng 1,5 kg (trừ pin) 
+11 
+	Màn hình tương tác AHA 65 inch (AHA8165)  
+Thông số kỹ thuật  
+ Công nghệ: màn hình LED  
+ Độ phân giải: 3840 x 2160 (UHD)  
+ Độ sáng: 350 cd/㎡ 
+ Độ tương phản:1200:1 
+	
+
+	
+
+
+
+216  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Lắp đặt: hướng cảnh quan  
+ Thời gian đáp ứng: 8 m/s (GTG)  
+ Số màu hiển thị: 1.07 tỷ màu(10bit)  
+ Tỷ lệ khung hiển thị: 60Hz (thực tế)  
+ Cảm biến cách mặt kính: 1.5mm  
+ Kích thước hiển thị: 1209.6 (H) x 680.4 (V) mm  
+ Công nghệ tương tác: IR  
+ Công cụ tương tác: bằng tay hoăc những vật rắn (ngoại trừ vật sắc nhọn)  
+ Độ chính xác: ± 1.0mm  
+ Điểm cảm ứng: Ø 2mm  
+ Thời gian phản hồi: <8ms (1 touch).  
+ Điểm tương tác: 20 điểm (Windows, Android),2 điểm (Mac with driver software  
+* Phụ kiện: khung đỡ màn hình, dây diện và công lắp đặt 
+12 Máy tính OPS tích hợp cho màn hình tương tác (Tuỳ chọn)  
+ OPS – 9900  
+ CPU: Intel Core i5 6200U 2.3 Ghz up to 2.8 Ghz, Cache 3Mb  
+ RAM DDR4 Up to 8Gb  
+ Card đồ họa: HD Intel 520  
+ SSD 256Gb
+13 
+	Bảng trượt ngang viết phấn  
+ Hàng gia công  
+Thông số kỹ thuật:  
+ Kích thước: 1,2 x 3,6 m  
+ Tấm lót bảng: được lót bằng ván MDF 6mm, phía sau mặt ván là lá ép 01 lớp vân gỗ giúp không bị ẩm, thấp, cong,  mo, vênh bảng, có tính thẩm mỹ cao, tính chịu lực tốt, độ bền tối ưu.  
+ Khung bảng: khung nhôm hộp Việt Nhật trắng bóng được thiết kế đảm bảo tính chịu lực cao.   Máng đựng bút: bằng nhôm chuyên dụng, hai đầu có co bằng nhựa hài hòa.  
+ Khung trượt: Bảng trượt trên đường ray (gồm thanh trên và thanh dưới) bằng nhôm Việt Nhật loại dầy, kích thước  3x3cm rất chắc chắn, bảng kéo trượt dễ dàng  
+ Gắn trực tiếp lên tường.
+	
+
+	
+
+
+
+217  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ 
+14 
+	Máy chiếu vật thể  
+Thông số kỹ thuật:  
+ Dòng máy chiếu vật thể thân thiện với môi trường, đáp ứng tiêu chuẩn môi trường khắt khe của cộng đồng Châu  Âu với việc sử dụng nguồn điện tiết kiệm, hệ thống ánh sáng thân thiện với môi trường, tiêu thụ nguồn điện thấp,  sử dụng đèn LED với tuổi thọ bóng đèn cao.  
+ Hệ thống quang học:  
+ Ống kính: 33-330mm / F3.4-3.8  
+ Vùng chụp: A3 (420mm x 297mm)  
+ Độ phóng ảnh: 544X (17X quang học x 8X kỹ thuật số x 4 zoom cơ học); 10X zoom ống kính + 1.7X zoom mở  rộng.  
+ Focus: Tự động  
+ Hệ thống chiếu sáng hỗ trợ trong điều kiện thiếu ánh sáng: LED (điều khiển độ sáng 3 cấp độ)   Hình ảnh và Video:  
+ Bộ cảm biến hình ảnh BSI: 1/3.2" CMOS  
+ Số điểm ảnh hiệu quả: 13.000.000 điểm ảnh  
+ Độ phân giải hình ảnh tĩnh: 13MP / 5MP / 2MP / 0.8MP  
+ Độ phân giải đầu ra HDMI: 4K (3840 X 2160 ), 1080p, 720p  
+ Độ phân giải đầu ra: XGA, UXGA, WXGA, 720p  
+ Cân bằng trắng: Tự động  
+ Độ sáng: Biên độ ± 7  
+ Những công cụ trình chiếu:  
+ Điều khiển hình ảnh: Freeze, Highlight, Mask, Flip, PIP, Slideshow  
+ Hiệu ứng hình ảnh: Text / Graphics / B&W / Negative  
+ Điều khiển từ xa: Có (Điều khiển từ xa bằng Remote IR)  
+ Mechanical Arm: Có  
+ PC Camera: Có  
+ Xoay cơ học -90 ° / 0 ° / 90 °  
+ Chức năng điều khiển đa dạng: Có thể điều khiển chức năng điều khiển bằng Remote, Phím bấm cứng trên thân  máy hoặc bằng phần mềm dễ dàng cho người sử dụng có nhiều lựa chọn  
+ Hỗ trợ hiển thị với các kích thước khác nhau 
+	
+
+	
+
+
+
+218  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Đầu ra hình ảnh 4K UHD  
+ Độ phóng ảnh lên đến 544X với 17 X zoom quang học, 8X kỹ thuật số 8X và 4X zoom cơ học học  
+ Phần mềm trình chiếu Smart DC Pro:  
+ Smart DC Pro tương thích với Windows, Mac và Chrome book. Tính năng sử dụng phong phú làm cho phần  
+mềm này hấp dẫn và thân thiện với người dùng.  
+ Theo xu hướng thiết kế phẳng, Smart DC Pro trông đơn giản nhưng sang trọng.  
+ Chụp hẹn giờ: Tính năng mới này làm cho chụp ảnh tại một khoảng thời gian nhất định có thể; một chức năng  
+hữu ích cho giáo viên trong lớp khoa học.  
+ Sử dụng công nghệ đám mây: Phiên bản cuốn sách Chrome Pro dành cho Chrome thông minh cho phép người  dùng tải ảnh của họ lên đám mây; miễn phí không lo lắng rằng các tập tin bị mất.  
+ Smart DC là một phần mềm chuyên nghiệp giúp bạn xem, ghi lại, chỉnh sửa và chú thích các tập tin hình ảnh  
+hoặc video thông qua việc sử dụng máy ảnh tài liệu.  
+ Giáo viên có thể chụp ảnh và sau đó chú thích trên hình ảnh để cung cấp giải thích thêm hoặc nhấn mạnh các  
+điểm chính  
+ Lưu chú thích của bạn dưới dạng tệp hình ảnh hoặc thậm chí ghi lại toàn bộ buổi học bằng video để chia sẻ  
+ Chức năng bảng vẽ cho phép vẽ và chú thích trực tiếp mà không cần phải kết nối máy ảnh tài liệu  
+ Cổng kết nối:  
+ RGB Output: (15-pin D-sub x1); RGB Input: (15-pin D-sub x1); HDMI Output: (19-pin HDMI 1.3 x1); HDMI  Input: (19-pin HDMI 1.3 x1); USB: (USB2.0 Type B x1); SDHC Card Slot x 1; Nguồn cung cấp: DC 5V Input:  
+(Power Jack x1) x 1  
+ Lưu trữ mở rộng SDHC Card Slot: Hỗ trợ lưu trữ lên đến 32GB SDHC cards  
+ Nguồn điện:  
+ Nguồn cung cấp: DC 5V, 100-240V, 50-60Hz  
+ Điện năng tiêu thụ: TBD  
+ Phụ kiện chuẩn: AC/DC Adapter x1,15-pin D-sub Cable x1(Optional),USB Cable x1,HDMI Cable x1, Battery  x2,Remote Control x1,Microscope Adapter x1,Anti-glare Sheet x1, Quick Guide x1,CD x1 
+15 
+	Phần mềm hệ thống cho 40 học viên và 1 giáo viên, đạt tiêu chuẩn ISO 9001:2000  
+* GIỚI THIỆU:  
+- vClass Plus là phần mềm hỗ trợ giảng dạy và học tập trên máy tính PC, máy tính bảng, không chỉ cho việc học ngoại  ngữ mà còn cho các môn học khác. 
+	
+
+	
+
+
+
+219  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ 
+
+
+	- Giao diện phần mềm thân thiện, dễ sử dụng, giúp cho giáo viên và học viên nhanh chóng tiếp cận một cách dễ dàng.  - Đáp ứng đầy đủ các tính năng của một phòng học đa phương tiện hiện đại  
+- vClass Plus tương thích với hệ điều hành Windows, Android, và đặc biệt nó có thể làm việc hoàn hảo trên Wireless  802.11b/g/n.  
+- Với vClass Plus, giáo viên có thể thực hiện nhiều thao tác quản lý, điều khiển: truyền hình ảnh, video, âm thanh; giám  sát giữa các máy tính học viên; làm bài kiểm tra; khoá tính năng, trình ứng dụng đang chạy, v.v...  - Bao gồm:  
+ Phần mềm cài đặt trên máy tính giáo viên: cung cấp quyền điều khiển lớp học cho giáo viên.   + Phần mềm cài đặt trên máy học viên (PC, Laptop, Máy tính bảng,…): cung cấp cho học viên khả năng kết nối  đến máy chủ giáo viên.  
+ Khả năng mở rộng lên đến 255 học viên, với 8 nhóm học viên trong cùng một lớp  
+ Tích hợp hệ thống quản lý và phục hồi dữ liệu: giáo viên có thể bảo trì, phục hồi, quản lý dữ liệu, đảm bảo hệ  thống hoạt động bình thường.  
+* TÍNH NĂNG CHÍNH:  
+ Truyền hình ảnh màn hình: Giáo viên có thể truyền toàn bộ hình ảnh màn hình âm thanh tới máy tính học viên:   Truyền màn hình của giáo viên đến một hoặc nhiều học viên.  
+ Hỗ trợ thanh công cụ phát sóng màn hình và giáo viên có thể phát giọng nói của phía giáo viên và ghi lại quá  trình phát màn hình.  
+ Giáo viên có thể sử dụng “Bút màn hình” để ghi lại phần quan trọng trên màn hình  
+ Hỗ trợ chuyển đổi giữa cửa sổ và toàn màn hình của phía học viên.  
+ Hỗ trợ điều chỉnh các thuộc tính của màn hình  
+ Hỗ trợ ghi âm quá trình với giọng nói của micro của phía giáo viên  
+ Học viên minh họa:  
+ Giáo viên có thể chọn một học viên để trình diễn màn hình của mình cho các học viên đã chọn.   Giáo viên có thể gửi giọng nói cho học viên trong khi học viên trình diễn.  
+ Hỗ trợ chuyển đổi giữa cửa sổ và toàn màn hình của học viên đang trình diễn  
+ Giáo viên có thể theo dõi, chia sẻ hoặc kiểm soát các hoạt động của học viên đang trình diễn   Giáo viên có thể thay đổi chế độ xem và chất lượng hiển thị của học viên đang trình diễn.  
+ Giáo viên có thể mở ứng dụng của học viên từ xa, sử dụng “Bút màn hình” và khởi chạy màn hình ghi lại.   Ghi âm kỹ thuật số: 
+	
+
+	
+
+
+
+220  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ 
+
+
+	 Giáo viên có thể chạy tất cả định dạng hình ảnh hoặc âm thanh tới máy học viên bằng cách chia nó thành một  vài đoạn và phát tới máy học viên.  
+ Giáo viên có thể sử dụng để ghi âm và video và sau đó phát lại cho học viên. Học viên có thể đọc sau đó ghi  âm lại và so sánh với bản gốc.  
+ Công cụ giám sát và điều khiển:  
+ Điều khiển từ xa một hoặc nhiều học viên.  
+ Hỗ trợ chuyển đổi giữa cửa sổ và toàn màn hình khi theo dõi một học viên.  
+ Hỗ trợ chuyển đổi tự động giữa các học viên và giáo viên có thể chọn màn hình trước hoặc màn hình tiếp theo  của những học viên  
+ Giáo viên có thể theo dõi, chia sẻ hoặc kiểm soát các hoạt động của học viên khi giám sát  
+ Giáo viên có thể thay đổi chế độ xem và chất lượng hiển thị của học viên khi theo dõi.  
+ Giáo viên có thể mở ứng dụng của học viên từ xa, sử dụng “Bút màn hình” và khởi chạy màn hình ghi lại khi  giám sát.  
+ Giáo viên có thể nhận giọng nói từ học viên được giám sát và gửi giọng nói đến người được giám sát.   Bố trí, sắp xếp chỗ ngồi học viên  
+ Tạo nhóm và trò chuyện nhóm:  
+ Giáo viên có thể chia học viên thành các nhóm khác nhau và khởi động trò chuyện nhóm.   Giáo viên có thể chọn nhóm để tham gia trò chuyện  
+ Hỗ trợ các loại phương thức giao tiếp, bao gồm tin nhắn, biểu tượng cảm xúc, hình ảnh và viết tay   Học viên trong cùng một nhóm có thể trò chuyện bằng giọng nói  
+ Giáo viên có thể cho phép hoặc từ chối học viên gửi tin nhắn  
+ Hỗ trợ xem thành viên trò chuyện, học viên có thể biết thành viên trong cùng nhóm.  
+ Hỗ trợ chế độ xem tệp được chia sẻ, giáo viên có thể chia sẻ tệp với học viên và các học viên trong cùng một  nhóm có thể tải xuống tệp  
+ Hỗ trợ xem lịch sử trò chuyện, giáo viên và học viên có thể kiểm tra lịch sử trò chuyện  
+ Trò chuyện chủ đề:  
+ Giáo viên tạo một số chủ đề khác nhau cho học viên và học viên chọn chủ đề mà họ quan tâm để tham gia.   Hỗ trợ các loại phương thức giao tiếp, bao gồm tin nhắn, biểu tượng cảm xúc, hình ảnh và viết tay.   Học viên cùng chủ đề có thể trò chuyện bằng giọng nói  
+ Hỗ trợ xem thành viên trò chuyện, học viên có thể biết thành viên trong cùng chủ đề. 
+	
+
+	
+
+
+
+221  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ 
+
+
+	 Hỗ trợ xem tệp được chia sẻ, giáo viên có thể chia sẻ tệp với học viên và các học viên trong cùng một chủ đề có  thể tải xuống tệp  
+ Hỗ trợ xem lịch sử, giáo viên và học viên có thể kiểm tra lịch sử trò chuyện.  
+ Dạy nhóm:  
+ Giáo viên có thể chia học viên thành các nhóm và phát động dạy học theo nhóm  
+ Giáo viên có thể khởi động các hoạt động khác nhau trong các nhóm khác nhau  
+ Hỗ trợ hai phương pháp dạy học theo nhóm: dạy học theo nhóm và dạy theo nhóm  
+ Màn hình học viên hiển thị thông tin của các học viên cùng nhóm  
+ Màn hình giáo viên hiển thị danh sách nhóm và giáo viên có thể thay đổi nhóm.  
+ Giáo viên có thể chọn một nhóm trưởng cho mỗi nhóm để giúp họ hoàn thành nhiệm vụ giảng dạy.   Giáo viên có thể thiết lập các chức năng của nhóm trưởng.  
+ Phân phối tài liệu:  
+ Phát tệp phương tiện cho một hoặc nhiều học viên  
+ Hỗ trợ tất cả các loại định dạng tệp phương tiện thông thường  
+ Hỗ trợ chuyển đổi giữa cửa sổ và toàn màn hình  
+ Giáo viên có thể phát, tạm dừng và dừng tệp phát, đồng thời chọn tệp phương tiện trước đó và tiếp theo   Hỗ trợ điều chỉnh âm lượng  
+ Hiển thị danh sách chơi, giáo viên có thể thêm hoặc xóa tập tin media.  
+ Hỗ trợ bốn chế độ phát lại khác nhau: bình thường, phát ngẫu nhiên, lặp lại một và lặp lại tất cả   Hỗ trợ định dạng 720P và 1080P  
+ Camera máy ảnh:  
+ Giáo viên có thể mở camera để phát hình ảnh của giáo viên cho một hoặc nhiều học viên  
+ Hỗ trợ chuyển đổi giữa cửa sổ và toàn màn hình  
+ Chia sẽ bảng viết thông minh:  
+ Giáo viên có thể truyền hình vẽ lên bảng cho học viên.  
+ Giáo viên có thể mời học viên vẽ trên bảng  
+ Hình ảnh bảng trắng tương tác có thể được lưu dưới dạng .IWB. định dạng  
+ Cài đặt chế độ xem:  
+ Chế độ xem chính sách hỗ trợ, giáo viên có thể thiết lập các chính sách của web, ứng dụng, đĩa USB, CD và  máy in 
+	
+
+	
+
+
+
+222  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ 
+
+
+	 Giáo viên có thể đặt chính sách khác nhau cho các học viên khác nhau  
+ Hỗ trợ ba chính sách web khác nhau của web và ứng dụng: tất cả mở, danh sách trắng và danh sách đen.   Hỗ trợ bốn chính sách ứng dụng khác nhau của đĩa USB và CD: mở, chỉ đọc, không thực thi và chặn tất cả.   Hỗ trợ hai chính sách máy in khác nhau: mở và chặn. ✧ Giáo viên có thể kiểm tra chính sách hiện tại của học  viên.  
+ Lệnh từ xa:  
+ Giáo viên không chỉ có thể mở các ứng dụng cục bộ mà còn mở các ứng dụng của phía học viên từ xa   Giáo viên có thể mở trang web của học viên từ xa  
+ Giáo viên có thể khởi động máy tính của học viên từ xa  
+ Giáo viên có thể tắt hoặc khởi động lại máy tính của học viên từ xa  
+ Giáo viên có thể đóng ứng dụng đang chạy trên PC của học viên từ xa.  
+ Giáo viên có thể liên kết trực tiếp đến cài đặt từ xa  
+ Hỗ trợ thêm ứng dụng đang chạy của học viên vào danh sách lệnh từ xa.  
+ Giáo viên có thể đặt Hiển thị, Máy chủ proxy, Chủ đề, Màn hình nền, Sơ đồ nguồn, Trình bảo vệ màn hình của  học viên  
+ Giáo viên có thể khóa quá trình của học viên  
+ Giáo viên có thể khóa màn hình của học viên sau khi kết nối mạng bị ngắt  
+ Tạo đề và kiểm tra:  
+ Giáo viên có thể sử dụng chức năng Tạo đề thi. Nó bao gồm một vài loại câu hỏi kiểm tra như: một câu trả lời,  nhiều câu trả lời, câu lựa chọn v.v… Giáo viên có thể đặt điểm cho từng câu, và thời gian thi cho cả bài thi.   Đánh giá sự tiến bộ của học viên trong quá trình giảng dạy, Thiết kế bài kiểm tra và khảo sát bằng Wizard,  Quản lý bài kiểm tra bằng hình thức kéo thả, Tự động đánh giá và xếp loại theo thời gian thực, Tùy biến giao  diện, giáo viên có thể sử dụng chức năng Kiểm tra ngay trên lớp để xem kết quả ngay lập tức. Nó có 3 kiểu câu  hỏi kiểm tra: một câu trả lời, nhiều câu trả lời, câu lựa chọn.  
+ Quản lý lớp học:  
+ Lưu mô hình lớp để tiếp tục sử dụng vào lần sau  
+ Hỗ trợ nhập mô hình lớp. Tạo, chỉnh sửa và kích hoạt các lớp học. Buộc các học viên trong mô hình lớp học  đăng ký để giáo viên có thể kiểm tra học viên thông tin trong lớp hiện tại. Sau khi tất cả học viên đăng ký, chức  năng đăng ký sẽ tự động dừng trong bên giáo viên. Giáo viên có thể đổi tên kênh tùy ý.  
+ Giáo viên có thể sắp xếp học viên theo tên, trạng thái hoặc địa chỉ IP 
+	
+
+	
+
+
+
+223  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Khởi động một hoạt động im lặng để trống màn hình học viên để thu hút sự chú ý  
+ Bàn phím và chuột của học viên bị khóa khi khởi chạy thao tác im lặng  
+ Hiển thị thông báo toàn màn hình và giáo viên có thể xác định thông báo. Giáo viên có thể hủy thao tác im lặng   Giáo viên có thể đăng nhập lớp học bằng tên giáo viên hoặc ID kênh  
+ học viên có thể chọn giáo viên khi giáo viên đăng nhập lớp bằng tên giáo viên. học viên sẽ tự động kết nối với  
+giáo viên trong cùng một kênh khi giáo viên đăng nhập lớp học bằng kênh ID  
+ Giáo viên có thể kiểm tra thông tin của học viên, chẳng hạn như trong phiên, giơ tay, đăng xuất, v.v.  
+ Giáo viên có thể chặn học viên giơ tay  
+ Giáo viên và học viên có thể giao tiếp với nhau bằng cách gửi tin nhắn  
+ Giáo viên có thể gửi tin nhắn cho những học viên đã chọn hoặc tất cả học viên.  
+ Hỗ trợ hiển thị thông báo của các học viên khác nhau trong các hộp thoại khác nhau.  
+ Kiểm soát âm lượng: Hỗ trợ điều chỉnh âm lượng phát lại và âm lượng micrô trong giao diện chính.
+16 
+	Bộ máy tính để bàn dành cho học viên  
+ * Màn hình máy tính 
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)   Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4  3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666 
+	
+
+	
+
+
+
+224  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.  
+ Keyboard: Standard USB (Đồng bộ với thương hiệu) 
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu) 
+17 Tai nghe cho giáo viên và học viên 
+ Tai nghe phòng lab ngoại ngữ TXD-1  
+Thông số kỹ thuật cơ bản:  
+ Tai nghe : Kháng trở : 8-32Ω  
+ Độ nhạy : ≥108dB tại 1KHz, 1mW  
+ Tần số : 20~20000Hz  
+ Míc của tai nghe txd-1 có thể uốn cong chống bẻ gãy  
+ Kháng trở : 2200 Ω  
+ Độ nhạy : -45±2dB tại 1KHz, 1V/Pa  
+ Tần số : 200~5000Hz  
+ Chiều dài dây cáp: 2m/ 2.4m 
+18 Hệ thống mạng cho phòng máy tính 
+18.1 Switch 24 port 10/100Mbps Linkpro 
+18.2 CHQCABLE CAT5e UTP CCAH Qui cách: 305m/thùng 
+18.3 Connector RJ45 
+19 Máy điều hòa 2,0HP 
+Thông số kỹ thuật cơ bản:  
+ Công suất lạnh: 2 HP - 18.000 BTU  
+ Loại máy: Điều hoà 1 chiều (chỉ làm lạnh)  
+ Phạm vi làm lạnh hiệu quả: Từ 20 - 30 m2 (từ 60 đến 80 m3)  
+ Công nghệ Inverter: Máy lạnh Inverter  
+ Loại gas sử dụng: R-32 
+ Vật tư: Ống đồng, dây điện, CB, ốc vít, băng keo… 
+III PHÒNG BỘ MÔN ÂM NHẠC 
+1 
+	Bảng từ xanh chống lóa Hàn Quốc 
+Hàng gia công 
+	
+
+	
+
+
+
+225  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+Thông số kỹ thuật cơ bản: 
+ Kích thước: (D 3,60 x N 1,20)m  
+ Mặt bảng từ chống lóa màu xanh lá sậm có dòng kẻ mờ vuông 50×50 mm, được bảo vệ bằng một lớp nilon.  
+ Khung bảng dày 4cm, sử dụng khung nhôm định hình cao cấp. Các góc nhựa vuốt tròn góc.  
+ Tấm sau bảng bằng vật liệu panen nhựa, có khai để phấn và khăn lau.  
+ Có khay đựng phấn 
+ Gắn trực tiếp lên tường. 
+2 Đàn Organ giáo viên 
+Thông số kỹ thuật cơ bản:  
+ Bàn phím: 61 phím kiểu piano  
+ Nhấn phím cảm ứng: 2 mức nhạy, Tắt  
+ Phức điệu tối đa: 64  
+ Âm sắc: 820 âm cài sẵn, bao gồm 50 âm organ điện tử (100 âm do người dùng tạo).  
+ Hàng mới 100% nhập khẩu chính hãng, có chứng nhận CU/CQ.  
+ Chân Đàn 
+3 Đàn Organ học sinh 
+Thông số kỹ thuật cơ bản:  
+ Bàn phím: 61 phím kiểu piano  
+ Phức điệu tối đa: 48  
+ Âm sắc: 400 âm cài sẵn  
+ Hàng mới 100%, có chứng nhận CU/CQ.  
+ Chân Đàn 
+4 Dây điện + phụ kiện cung cấp cho đàn 
+- CB nguồn: 01 cái  
+- Ổ cắm điện panasonic (3 ổ): 12 cái  
+- Dây diện 4.0: 20m  
+- Dây điện 1.5: 200m  
+- Nẹp nhựa 3x1,5cm: 17m  
+- Nẹp bán nguyệt: 40m  
+- Đinh, ốc, vít, tắc kê …: 01 bộ  
+- Chi phí nhân công lắp đặt : 01 bộ
+5 
+	Bàn giáo viên: (Bàn 1 thùng, mặt trước bàn đóng vách kín)
+	
+
+	
+
+
+
+226  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,2 x R0,6 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn: 30x80mm  
+ Chân bàn : 35x50mm  
+ Gác chân : 30x60mm  
+ Khóa cửa một thùng  
+ Cửa thùng, 2 hột bàn gỗ nhóm IV.  
+ Ván bao che mặt trước và hai bên hông bằng gỗ nhóm IV dày 15mm 
+ Mặt bàn kính trắng dày 5mm. 
+6 Ghế xoay lưới  
+ Kích thước: W590 x D595 x H960 -1040 mm  
+ Chất liệu: Khung tựa nhựa bọc vải lưới, chân mạ  
+ Mặt ghế lưới có đệm mút bọc PVC hoặc vải êm ái khi ngồi  
+ Chân mạ, chân ghế có gắn nút cao su chống trượt chống trầy xước với mặt sàn 
+ Khung tựa bọc vải lưới. Tay cầm được thiết kế kiểu cách bằng thép ốp nhựa 
+7 Tủ đựng hồ sơ  
+ Kích thước: D1000 x R4570 x C1830 (mm)  
+ Phần trên gồm 2 cánh kính lùa khung sắt, khóa lùa, bên trong có 2 đợt di động.  
+ Phần dưới có 2 khoang cánh sắt lùa, có khóa.  
+ Tủ sơn tĩnh điện màu ghi, tay nắm mạ 3Ni+Cr.  
+ Màu sắc: Màu ghi sáng  
+IV PHÒNG BỘ MÔN MỸ THUẬT 
+1 
+	Bảng từ xanh chống lóa  
+- Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D 3,60 x N 1,20)m 
+	
+
+	
+
+
+
+227  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Mặt bảng từ chống lóa màu xanh lá sậm có dòng kẻ mờ vuông 50×50 mm, được bảo vệ bằng một lớp nilon.  
+ Khung bảng dày 4cm, sử dụng khung nhôm định hình cao cấp. Các góc nhựa vuốt tròn góc.  
+ Tấm sau bảng bằng vật liệu panen nhựa, có khai để phấn và khăn lau.  
+ Có khay đựng phấn 
+ Gắn trực tiếp lên tường. 
+2 Giá vẽ giáo viên và học sinh + Bảng vẽ 
+Thông số kỹ thuật cơ bản:  
+ Ván giá vẽ bằng ván MDF Malaysia  
+ Chân sắt vuông 16mm,tole tấm dày 0.7mm, sơn tĩnh điện, Inox ống tròn 12,7mm  
+ Xếp gọn nhờ khớp bản lề  
+ Tiếp xúc với sàn bằng đế nhựa 
+V PHÒNG BỘ MÔN LÝ, HÓA, SINH  
+1 Bảng từ xanh chống lóa  
+- Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D 3,60 x N 1,20)m  
+ Mặt bảng từ chống lóa màu xanh lá sậm có dòng kẻ mờ vuông 50×50 mm, được bảo vệ bằng một lớp nilon.  
+ Khung bảng dày 4cm, sử dụng khung nhôm định hình cao cấp. Các góc nhựa vuốt tròn góc.  
+ Tấm sau bảng bằng vật liệu panen nhựa, có khai để phấn và khăn lau.  
+ Có khay đựng phấn 
+ Gắn trực tiếp lên tường.
+2 
+	Bàn thí nghiệm giáo viên 1 
+- Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D1,5m x R0,6m x C0,75m).  
+ Mặt bàn bằng đá Granit đen kim sa dày 20mm  
+ Chân bàn bằng thép sơn tĩnh điện 25x25 1mm, hồi bàn bằng MDF 18ml chịu nước, cách điện, không gỉ, thẩm mỹ  đẹp,  
+ Toàn bộ ván quây băng gỗ công nghiệp phủ melamin màu ghi sáng dày 18mm  
+ Bàn có 01 hộc tủ + ngăn bàn.  
+ Bàn có ổ cắm điện panasonic AC-220V. 
+	
+
+	
+
+
+
+228  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Chậu rửa: màu trắng sứ ,chịu hoá chất và có voi nước đơn 
+3 Ghế xoay lưới  
+ Kích thước: W590 x D595 x H960 -1040 mm  
+ Chất liệu: Khung tựa nhựa bọc vải lưới, chân mạ  
+ Mặt ghế lưới có đệm mút bọc PVC hoặc vải êm ái khi ngồi  
+ Chân mạ, chân ghế có gắn nút cao su chống trượt chống trầy xước với mặt sàn 
+ Khung tựa bọc vải lưới. Tay cầm được thiết kế kiểu cách bằng thép ốp nhựa 
+4 Bàn thí nghiệm học sinh 2 chỗ ngồi  
+ Kích thước: (D1200xR500xC750)mm.  
+ Chất liệu:  
+ Mặt bàn bằng đá Granitte dày 15mm, chịu được Acid, Baz loãng và 1 số hoá chất khác. Chân Inox chữ nhật 25 x  50mm, vuông 25mm,tròn 22 mm, tôn tấm dày 0,8mm. Liên kết bằng Bulon và mối hàn Argon. Bàn dạng lắp ráp để  dể dàng vận chuyển và lắp đặt. Bàn tiếp xúc với sàn bằng 4 đế nhựa.  
+ Bộ ổ cắm âm trên mặt bàn SIMEN kích thước 120x120mm, chiều cao 54cm gồm một đế làm bằng kim loại có sơn  tĩnh điện giúp bạn có thể dễ dàng đặt dưới sàn nhà hoặc đi âm tương mà không sợ bị hỏng hoặc rỉ sét 
+5 Ghế inox phòng thí nghiệm  
+ Hàng gia công  
+ Ghế chuyên dụng, sử dụng cho phòng thí nghiệm, được làm bằng inox 304, theo tiêu chuẩn ISO 17025, ISO 900   Mặt ghế bằng inox 304 đường kính 310mm dày 1.4mm  
+ Chân ghế bằng inox 304 loại đường kính 22mm dày 1mm  
+ Nâng hạ chiều cao bằng hơi thủy lực(hoặc nâng hạ chiều cao bằng cách xoay mặt ghế) chiều cao điều chỉnh từ  550mm đến tối đa 670mm 
+6 Giá treo dụng cụ thí nghiệm 
+ Chất liệu: Inox 304  
+ Cấu trúc: giá đơn có thể tháo rời, thuận tiện cho việc sử dụng, thay thế  
+ Có thể gắn trên tường hoặc đặt dưới bàn.  
+ Cung cấp kèm theo móc treo dụng cụ  
+ Kích thước: 550x700 mm  
+ Thiết kế thân thiện, dễ dàng sử dụng
+7 
+	Tủ để dụng cụ thí nghiệm
+	
+
+	
+
+
+
+229  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Hãng sản xuất: Thiết bị giáo dục Miladi Việt Nam  
+ Kích thước: 1.830 x 1.000 x 450 mm  
+ Toàn bộ tủ bằng thép sơn tĩnh điện màu ghi sáng.  
+ Toàn bộ phần thép sơn tĩnh điện bằng loại sơn cao cấp, chống gỉ, chống xước và có độ bám dính cao.  
+ Trên có 2 cánh kính mở có 3 khoang.  
+ Dưới có 2 cánh thép mở có 2 ngăn riêng biệt  
+ Khoá tủ và tay nắm mở chuyên dụng.  
+ Đợt tủ có thể điều chỉnh chiều cao theo yêu cầu người sử dụng.  
+ Các chi tiết bằng thép được hàn trong môi trường khí bảo vệ CO2 
+ Có bản thiết kế chi tiết kèm theo. 
+ Hàng hóa được sản xuất quản lý theo tiêu chuẩn chất lượng: ISO 9001 - 2008 
+8 Giá đựng dụng cụ thiết bị phòng thí nghiệm (5 ngăn) 
+ Hãng sản xuất: Thiết bị giáo dục Miladi Việt Nam  
+ Kích thước : Cao x Rộng x Sâu (1760 x 1800 x 400) mm  
+ Khung thép dày 1,8mm, lắp ghép theo kiểu modul, mỗi modul rộng 0,9m, có thể lắp dài vô tận. Giá có 4 đợt di  động có thể lắp ở các độ cao khác nhau nhờ hệ lỗ chờ trên phần khung  
+ Các khay đựng thiết bị 4 cạnh gập vuông cao 36mm lắp ngửa lên phía trên, ở dưới có gờ tăng cứng.  
+ Toàn bộ có thể tháo rời khi vận chuyển  
+ Các chi tiết sơn tĩnh điện màu ghi sáng  
+ Lắp ghép dễ dàng bằng kết cáu cá thanh cài, nối ghép liên tục, không cần bulông, ốc vít  
+ Toàn bộ phần thép sơn tĩnh điện bằng loại sơn cao cấp, chống gỉ, chống xước và có độ bám dính cao.  
+ Các chi tiết bằng hép được hàn trong môi trường khí bảo vệ CO2, các mối hàn đảm bảo độ ngấu, chắc chắn và có  tính thẩm mỹ cao 
+ Hàng hóa được sản xuất quản lý theo tiêu chuẩn chất lượng: ISO 9001 – 2008
+9 
+	Tủ đựng hóa chất  
+Kích thước: (W 1.000 x D 500 x H 1.700) mm  
+ Có quạt hút sử lý khí độc bằng than hoạt tính thay đổi tốc độ chuyên dùng  
+ Có đèn Neon chiếu sáng  
+ Hộp điện bằng compozit  
+ Ngăn đựng hoá chất có thể thay đổi khoảng cách theo yêu cầu người sử dụng  
+ Tủ được sơn bằng loại sơn chịu hoá chất 
+	
+
+	
+
+
+
+230  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Tủ có 2 cánh bằng kính mở. Cánh cửa có gioăng cao su từ đảm bảo độ kín  
+ Có chân tăng chỉnh  
+ Hàng hóa được sản xuất quản lý theo tiêu chuẩn chất lượng: ISO 9001:2015; ISO 14001:2014; ISO 45001:2015 10 Xe đẩy inox phòng thí nghiệm 
+ Hàng gia công  
+ Kích thước: 700x500x800 mm  
+ Được thiết kế bằng inox 304, 201 dày 1mm  
+ Khung inox phi 25mm  
+ 02 tầng mặt có đố inox chịu lực  
+ Lan can 4 mặt phi 12,7mm  
+ 04 bánh xe 130mm bọc nhựa (02 bánh xoay và 02 bánh cố định)  
+ Kết cấu kiểu dáng công nghiệp. 
+11 Tủ điều khiển điện trung tâm  
+ Kích thước: 500x600x750 mm, chân bằng nhựa định hình có chân tăng chỉnh  
+ Tủ có biến thế nguồn công suất 1000W.  
+ Điện áp đầu nguồn từ 170v đến 230v.  
+ Tủ cung cấp nguồn điện cho tất cả các bàn giáo viên và học sinh. AC từ :6v, 12v, 24v, 220v và DC từ 6v, 12v, 24v.  Điều chỉnh vô cấp  
+ Dòng tối đa ở điện áp thấp là 40A.  
+ Chuyển mạch bằng khởi động từ.  
+ Có aptomat chống giật. 
+12 Hệ thống cấp điện cho học sinh  
+- CB nguồn: 01 cái  
+- Dây điện 1.5mm: 100m  
+- Nẹp 24x14mm: 30m  
+- Đinh, ốc, vít, tắc kê …: 01 bộ  
+- Chi phí nhân công lắp đặt : 01 bộ
+13 
+	Ti vi (LED 55 inch) + giá treo tường 
+ Loại tivi: Smart Tivi 4K 55 inch  
+ Ứng dụng sẵn có: Clip TV; FPT Play; Galaxy Play (Fim+); MyTV; Netflix; Nhaccuatui; POPS Kids; Spotify;  Trình duyệt web; TV 360; VieON; VTVcab ON; YouTube; YouTube Kids; Zing TV;
+	
+
+	
+
+
+
+231  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Kết nối bàn phím, chuột: Bluetooth (Kết nối loa, thiết bị di động)  
+ Tính Năng Khác: ALG Voice Search - tìm kiếm bằng giọng nói tiếng Việt; Tìm kiếm giọng nói trên YouTube bằng  tiếng Việt; Nhận diện giọng nói LG Voice Recognition; Google Assistant (Chưa có tiếng Việt); Alexa (Chưa có  
+tiếng Việt)  
+ Cổng HDMI: 2 cổng HDMI có 1 cổng HDMI eARC (ARC)  
+ Cổng USB: 1 cổng  
+ Kích thước không chân, treo tường: Ngang 123.5 cm - Cao 71.5 cm - Dày 5.7 cm  
+ Bao gồm phụ kiện giá treo tường, dây diện và công lắp đặt 
+ Hàng chính hãng, đầy đủ CO, CQ
+14 
+	Bộ máy tính để bàn  
+ * Màn hình máy tính 
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)   Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4  3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.   Keyboard: Standard USB (Đồng bộ với thương hiệu)
+	
+
+	
+
+
+
+232  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu) 
+VI PHÒNG BỘ MÔN CÔNG NGHỆ  
+1 Bảng từ xanh chống lóa  
+- Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D 3,60 x N 1,20)m  
+ Mặt bảng từ chống lóa màu xanh lá sậm có dòng kẻ mờ vuông 50×50 mm, được bảo vệ bằng một lớp nilon.  
+ Khung bảng dày 4cm, sử dụng khung nhôm định hình cao cấp. Các góc nhựa vuốt tròn góc.  
+ Tấm sau bảng bằng vật liệu panen nhựa, có khai để phấn và khăn lau.  
+ Có khay đựng phấn 
+ Gắn trực tiếp lên tường. 
+2 Bàn thí nghiệm giáo viên 2 
+- Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D1,5m x R0,6m x C0,75m).  
+ Mặt bàn bằng đá Granit đen kim sa dày 20mm  
+ Bàn có kết hợp hệ thống tủ điều khiển trung tâm phân phối điện áp xuống tất cả các bàn trong phòng thí nghiệm,   Khung bằng thép hộp 30x30, 25x25, dày 1,2mm, sơn tĩnh điện màu ghi sáng  
+ Ván quây bằng gỗ MDF 18ml chống ẩm nhập khẩu chất lượng cao được sản xuất chuyên nghiệp trên công nghệ  máy cắt CNC chính xác cao, thẩm mỹ đẹp.  
+ Bàn có ổ cắm điện panasonic AC-220V. 
+3 Ghế xoay lưới 
+ Model: Hòa Phát GL216M  
+ Kích thước: W590 x D595 x H960 -1040 mm  
+ Chất liệu: Khung tựa nhựa bọc vải lưới, chân mạ  
+ Mặt ghế lưới có đệm mút bọc PVC hoặc vải êm ái khi ngồi  
+ Chân mạ, chân ghế có gắn nút cao su chống trượt chống trầy xước với mặt sàn 
+ Khung tựa bọc vải lưới. Tay cầm được thiết kế kiểu cách bằng thép ốp nhựa
+4 
+	Bàn thí nghiệm học sinh 2 chỗ ngồi  
+ Kích thước: (D1200xR500xC750)mm.  
+ Chất liệu: 
+	
+
+	
+
+
+
+233  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Mặt bàn bằng đá Granitte dày 15mm, chịu được Acid, Baz loãng và 1 số hoá chất khác. Chân Inox chữ nhật 25 x  50mm, vuông 25mm,tròn 22 mm, tôn tấm dày 0,8mm. Liên kết bằng Bulon và mối hàn Argon. Bàn dạng lắp ráp để  dể dàng vận chuyển và lắp đặt. Bàn tiếp xúc với sàn bằng 4 đế nhựa. 
+ Bộ ổ cắm âm trên mặt bàn SIMEN kích thước 120x120mm, chiều cao 54cm gồm một đế làm bằng kim loại có sơn  tĩnh điện giúp bạn có thể dễ dàng đặt dưới sàn nhà hoặc đi âm tương mà không sợ bị hỏng hoặc rỉ sét 
+5 Ghế inox phòng thí nghiệm  
+ Hàng gia công  
+ Ghế chuyên dụng, sử dụng cho phòng thí nghiệm, được làm bằng inox 304, theo tiêu chuẩn ISO 17025, ISO 900   Mặt ghế bằng inox 304 đường kính 310mm dày 1.4mm  
+ Chân ghế bằng inox 304 loại đường kính 22mm dày 1mm 
+ Nâng hạ chiều cao bằng hơi thủy lực(hoặc nâng hạ chiều cao bằng cách xoay mặt ghế) chiều cao điều chỉnh từ  550mm đến tối đa 670mm 
+6 Giá treo dụng cụ thí nghiệm  
+ Chất liệu: Inox 304  
+ Cấu trúc: giá đơn có thể tháo rời, thuận tiện cho việc sử dụng, thay thế  
+ Có thể gắn trên tường hoặc đặt dưới bàn.  
+ Cung cấp kèm theo móc treo dụng cụ  
+ Kích thước: 550x700 mm 
+ Thiết kế thân thiện, dễ dàng sử dụng
+7 
+	Tủ để dụng cụ thí nghiệm  
+ Kích thước: 1.830 x 1.000 x 450 mm  
+ Toàn bộ tủ bằng thép sơn tĩnh điện màu ghi sáng.  
+ Toàn bộ phần thép sơn tĩnh điện bằng loại sơn cao cấp, chống gỉ, chống xước và có độ bám dính cao.   Trên có 2 cánh kính mở có 3 khoang.  
+ Dưới có 2 cánh thép mở có 2 ngăn riêng biệt  
+ Khoá tủ và tay nắm mở chuyên dụng.  
+ Đợt tủ có thể điều chỉnh chiều cao theo yêu cầu người sử dụng.  
+ Các chi tiết bằng thép được hàn trong môi trường khí bảo vệ CO2 
+ Có bản thiết kế chi tiết kèm theo.  
+ Hàng hóa được sản xuất quản lý theo tiêu chuẩn chất lượng: ISO 9001 - 2008
+	
+
+	
+
+
+
+234  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+8 Giá đựng dụng cụ thiết bị phòng thí nghiệm (5 ngăn) 
+ Kích thước : Cao x Rộng x Sâu (1760 x 1800 x 400) mm  
+ Khung thép dày 1,8mm, lắp ghép theo kiểu modul, mỗi modul rộng 0,9m, có thể lắp dài vô tận. Giá có 4 đợt di  động có thể lắp ở các độ cao khác nhau nhờ hệ lỗ chờ trên phần khung  
+ Các khay đựng thiết bị 4 cạnh gập vuông cao 36mm lắp ngửa lên phía trên, ở dưới có gờ tăng cứng.  
+ Toàn bộ có thể tháo rời khi vận chuyển  
+ Các chi tiết sơn tĩnh điện màu ghi sáng  
+ Lắp ghép dễ dàng bằng kết cáu cá thanh cài, nối ghép liên tục, không cần bulông, ốc vít  
+ Toàn bộ phần thép sơn tĩnh điện bằng loại sơn cao cấp, chống gỉ, chống xước và có độ bám dính cao.  
+ Các chi tiết bằng hép được hàn trong môi trường khí bảo vệ CO2, các mối hàn đảm bảo độ ngấu, chắc chắn và có  tính thẩm mỹ cao  
+ Hàng hóa được sản xuất quản lý theo tiêu chuẩn chất lượng: ISO 9001 – 2008 
+9 Xe đẩy inox phòng thí nghiệm  
+ Hàng gia công  
+ Kích thước: 700x500x800 mm  
+ Được thiết kế bằng inox 304, 201 dày 1mm  
+ Khung inox phi 25mm  
+ 02 tầng mặt có đố inox chịu lực  
+ Lan can 4 mặt phi 12,7mm  
+ 04 bánh xe 130mm bọc nhựa (02 bánh xoay và 02 bánh cố định) 
+ Kết cấu kiểu dáng công nghiệp. 
+10 Hệ thống cấp điện cho học sinh  
+- CB nguồn: 01 cái  
+- Dây điện 1.5mm: 100m  
+- Nẹp 24x14mm: 30m  
+- Đinh, ốc, vít, tắc kê …: 01 bộ  
+- Chi phí nhân công lắp đặt : 01 bộ
+11 
+	Ti vi (LED 55 inch) + giá treo tường 
+ Loại tivi: Smart Tivi 4K 55 inch  
+ Ứng dụng sẵn có: Clip TV; FPT Play; Galaxy Play (Fim+); MyTV; Netflix; Nhaccuatui; POPS Kids; Spotify;  Trình duyệt web; TV 360; VieON; VTVcab ON; YouTube; YouTube Kids; Zing TV; 
+	
+
+	
+
+
+
+235  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Kết nối bàn phím, chuột: Bluetooth (Kết nối loa, thiết bị di động)  
+ Tính Năng Khác: ALG Voice Search - tìm kiếm bằng giọng nói tiếng Việt; Tìm kiếm giọng nói trên YouTube bằng  tiếng Việt; Nhận diện giọng nói LG Voice Recognition; Google Assistant (Chưa có tiếng Việt); Alexa (Chưa có  
+tiếng Việt)  
+ Cổng HDMI: 2 cổng HDMI có 1 cổng HDMI eARC (ARC)  
+ Cổng USB: 1 cổng  
+ Kích thước không chân, treo tường: Ngang 123.5 cm - Cao 71.5 cm - Dày 5.7 cm  
+ Bao gồm phụ kiện giá treo tường, dây diện và công lắp đặt 
+ Hàng chính hãng, đầy đủ CO, CQ
+12 
+	Bộ máy tính để bàn  
+* Màn hình máy tính 
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)   Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4  3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.   Keyboard: Standard USB (Đồng bộ với thương hiệu)
+	
+
+	
+
+
+
+236  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu) 
+VII PHÒNG KHOA HỌC XÃ HỘI + ĐA CHỨC NĂNG  
+1 Bảng trượt ngang viết phấn 
+ Hàng gia công  
+Thông số kỹ thuật:  
+ Kích thước: 1,2 x 3,6 m  
+ Tấm lót bảng: được lót bằng ván MDF 6mm, phía sau mặt ván là lá ép 01 lớp vân gỗ giúp không bị ẩm, thấp, cong,  mo, vênh bảng, có tính thẩm mỹ cao, tính chịu lực tốt, độ bền tối ưu.  
+ Khung bảng: khung nhôm hộp Việt Nhật trắng bóng được thiết kế đảm bảo tính chịu lực cao.  
+ Máng đựng bút: bằng nhôm chuyên dụng, hai đầu có co bằng nhựa hài hòa.  
+ Khung trượt: Bảng trượt trên đường ray (gồm thanh trên và thanh dưới) bằng nhôm Việt Nhật loại dầy, kích thước  3x3cm rất chắc chắn, bảng kéo trượt dễ dàng 
+ Gắn trực tiếp lên tường. 
+2 Bàn giáo viên: (Bàn 1 thùng, mặt trước bàn đóng vách kín) 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,2 x R0,6 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn: 30x80mm  
+ Chân bàn : 35x50mm  
+ Gác chân : 30x60mm  
+ Khóa cửa một thùng  
+ Cửa thùng, 2 hột bàn gỗ nhóm IV.  
+ Ván bao che mặt trước và hai bên hông bằng gỗ nhóm IV dày 15mm 
+ Mặt bàn kính trắng dày 5mm.
+3 
+	Ghế xoay lưới  
+ Kích thước: W590 x D595 x H960 -1040 mm  
+ Chất liệu: Khung tựa nhựa bọc vải lưới, chân mạ 
+	
+
+	
+
+
+
+237  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Mặt ghế lưới có đệm mút bọc PVC hoặc vải êm ái khi ngồi 
+ Chân mạ, chân ghế có gắn nút cao su chống trượt chống trầy xước với mặt sàn 
+ Khung tựa bọc vải lưới. Tay cầm được thiết kế kiểu cách bằng thép ốp nhựa 
+4 Bàn học sinh lục giác 
+ Hàng gia công 
+ Kích thước: (D2,35xR2,078xC75)m 
+ Vật liệu: Mặt gỗ ghép nhóm IV, chân thép hộp + Sơn PU 3 lớp hoàn thiện 
+ Kích thước mặt bàn 60x115cm, cao 75cm cắt cạnh 
+ Chân sắt sơn tĩnh điện hộp 40x40mm 
+ Khung sắt dày 1,2mm vô cùng chắc chắn 
+5 Ghế xếp Inox 
+ Chất liệu: Chân Inox, đệm PVC 
+ Kích thước: W445 x D505 x H850mm 
+ Khung ống inox Ø22. 
+ Đệm ngồi, Tựa lưng mút bọc nỉ, Chân đệm cao su 
+ Màu sắc: Màu xanh dương 
+6 
+	Màn hình tương tác AHA 65 inch (AHA8165)  
+Thông số kỹ thuật 
+ Công nghệ: màn hình LED 
+ Độ phân giải: 3840 x 2160 (UHD) 
+ Độ sáng: 350 cd/㎡ 
+ Độ tương phản:1200:1 
+ Lắp đặt: hướng cảnh quan 
+ Thời gian đáp ứng: 8 m/s (GTG) 
+ Số màu hiển thị: 1.07 tỷ màu(10bit) 
+ Tỷ lệ khung hiển thị: 60Hz (thực tế) 
+ Cảm biến cách mặt kính: 1.5mm 
+ Kích thước hiển thị: 1209.6 (H) x 680.4 (V) mm 
+	
+
+	
+
+
+
+238  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Công nghệ tương tác: IR  
+ Công cụ tương tác: bằng tay hoăc những vật rắn (ngoại trừ vật sắc nhọn)  
+ Độ chính xác: ± 1.0mm  
+ Điểm cảm ứng: Ø 2mm  
+ Thời gian phản hồi: <8ms (1 touch).  
+ Điểm tương tác: 20 điểm (Windows, Android),2 điểm (Mac with driver software  
+* Phụ kiện: khung đỡ màn hình, dây diện và công lắp đặt 
+7 Bộ máy tính để bàn  
+ * Màn hình máy tính 
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)  
+ Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4  
+3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  
+connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  
+bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.  
+ Keyboard: Standard USB (Đồng bộ với thương hiệu)  
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu) 
+VIII 
+	THIẾT BỊ PHỤC VỤ GIẢNG DẠY 
+	
+
+	
+
+
+
+239  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+1 Máy tính Laptop giảng dạy  
+ Thế hệ CPU: Core i7 , Intel Core thế hệ thứ 12  
+ CPU: ntel Core i7-1255U (1.3 GHz - 4.4 GHz / 12MB / 10 nhân, 12 luồng ) i7-1255U  
+ Màn hình: 15.6" (1920 x 1080 ) Full HD WVA 120Hz , không cảm ứng , Màn hình chống lóa , FHD webcam  
+ RAM: 1 x 8GB DDR4 3200MHz (2 Khe cắm / Hỗ trợ tối đa 16GB )  
+ Đồ họa: Onboard Intel Iris Xe Graphics  
+ Lưu trữ: 512GB SSD M.2 NVMe /  
+ Hệ điều hành: Windows 11 Home  
+ Cổng xuất hình: 1 x HDMI  
+ Cổng kết nối: 2 x USB 3.2 , 1 x USB 2.0 , 1 x SD card slot , Audio combo  
+ Kết nối không dây: WiFi 802.11ax (Wifi 6) , Bluetooth 5.2  
+ Bàn phím: thường , có phím số , không đèn  
+ Pin: 4 cell Pin liền  
+ Khối lượng: 1.9kg 
+2 Loa (Phục vụ sinh hoạt ngoài trời) 
+ Cấu Tạo 3 Loa, 2 đường tiếng  
+ Công suất RMS 1200W  
+ Công suất Max/Program 4800W  
+ Loa Bass 40cmx2  
+ Loa treble 1 loa JBL 2451H cuộn âm 10cm, nam châm NEO  
+ Dải tần : 37 Hz – 20kHz (-10 DB)  
+ Kích thước (H x W x D) : 1219 mm x 541 mm x 508 mm  
+ Tần số đáp ứng: 53 Hz – 20 kHz (± 3 db)  
+ Trọng lượng: 45 kg
+3 
+	Loa Sub  
+ Công suất tối đa của loa JBL 718S: 1500W  
+ Trở kháng 8Ohms (cân bằng)  
+ Dải tần số : (-10 dB) 30 Hz – 103 Hz  
+ Loa siêu trầm bass-phản xạ thụ động  
+ Màu sắc: màu đen. 
+	
+
+	
+
+
+
+240  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Vỏ làm bằng ván ép chống ẩm, sơn sần tĩnh điện. 
+ Mặt lưới thép màu đen sơn tĩnh điện. 
+ Thùng được thiết kế nhỏ gọn giúp tiết kiệm diện tích sử dụng 
+ Kích thước: (H x W x D) 690,372 mm x 523,24 mm x 723,9 mm 
+ Trọng lượng: 29,49 Kg 
+4 Bàn mixer 
+ Loại: Bàn trộn âm thanh, Bàn Mixer Soundcraft 
+ Kênh: 10 (10 Mono, 2 Stereo) 
+ Kiểu: Analog 
+ Inputs – Mic Preamps : 8 x XLR (CH 1-12) 
+ Inputs – Line : 8 x 1/4″ (CH 1-12), 4 x 1/4″ (Stereo 1, 2), 2 x RCA (2 TRK) 
+ Inputs – Other : No Other Inputs 
+ Outputs – Main : 2 x XLR, 1 x 1/4″ (Mono) 
+ Outputs – Direct : No Direct Outputs 
+ Outputs – Other : 2 x RCA (Rec), 2 x 1/4″ (Monitor) 
+ Computer Connectivity : No Computer Connectivity 
+ Rackmountable : Yes 
+ Kích thước: 33(W) x 9.1(H) x 36.3(D) cm 
+ Trọng lượng: 4.58 kg 
+Bảo hành: 12 tháng 
+5 Vang Số 
+ Reverb điều chỉnh thấp qua nhiều bộ lọc: 5,99 Hz-20.6KHz 
+ Reverb cao qua bộ lọc Phạm vi điều chỉnh: 0Hz-1000Hz 
+ Reverb cấp phạm vi điều chỉnh: 0-100% 
+ Trước tiếng vang chậm trễ phạm vi điều chỉnh: 0 ~ 200ms 
+ Vang thời gian phạm vi điều chỉnh: 0 ~ 3000ms 
+ Echo: Bộ lọc băng thông thấp: 5,99 Hz – 20.6KHz 
+ Vang cao qua bộ lọc: 0Hz – 1000Hz 
+ Vang cân bằng tham số: 3 phần 
+6 
+	Cục đẩy công suất 
+	
+
+	
+
+
+
+241  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Loại 2 kênh  
+ Công suất 8Ω stereo 600W x 2  
+ Công suất 4Ω stereo 900W x 2  
+ Công suất 8Ω bridge 1800W  
+ Tần số 20Hz-20KHz,+0/-1dB  
+ Tỉ lệ S/N > 100dB  
+ THD+N <0.5%,20Hz-20KHz  
+ Damping factor > 250  
+ Độ nhạy 0.775V  
+ Chế độ ra loa Stereo/Bridge/Parallel  
+ Cổng ra Cài dây + Neutrik  
+ Kích thước 89(C) x 483(R) x 378(S) mm 
+ Trọng lượng 15.5kg 
+7 Micro không dây JBL (1bộ thu + 2 bộ micro) 
+ Loại: Micro không dây  
+ Phạm vi sử dụng: 50 mét  
+ Tần số: 640MHz - 690MHz  
+ Chất liệu: Đúc, hợp kim 
+8 Dây loa + phụ kiện 
+ Cấu tạo: 4 lớp, PVC chịu lực ngoài trời. vỏ giấy cacbon, sợi phủ ngăn 2 tác dụng, boc loại PVC (phân biệt 2 màu  Trắng, Đỏ)  
+ Dạng sợi: Sợi tròn  
+ Chất liệu: 2 lõi đồng OFC, 100%  
+ Kích thước lõi: Hợp khối 2 lõi kích thước 2.5mm  
+ Dây tính theo cuộn 100m
+9 
+	Tủ đựng thiết bị âm thanh  
+ Kích thước 530 (Rộng) x 680 (Cao) x 670 (Sâu) mm  
+ Gỗ dán nhiều lớp: 9mm bền mặt tráng nhựa  
+ Góc bằng sắt dập mạ crom bóng đẹp và mạnh mẽ  
+ Chân quay đa hướng có vòng bi bánh cao su bền chắc chắn 
+	
+
+	
+
+
+
+242  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Màu sắc: Đen  
+ Model: Tủ âm thanh 8U (Tủ sắt)  
+ Kích thước: cao 41cm, rộng 54,5cm, sâu 60cm  
+ Tủ có 1 quạt gió 220v hỗ trợ giải nhiệt, có cửa trước và sau khóa bảo vệ, có bánh xe. 
+10 Giá treo tranh 15 móc  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: W1985 x D450 x H2000 mm  
+ Khung bằng sắt ống chữ nhật 20x40mm, ống vuông 20, 25mm, ø6mm. Toàn bộ sơn tĩnh điện  
+ Liên kết bằng bù loong, mối hàn có khí CO2 bảo vệ  
+ Điều chỉnh độ cao từ 1,2m – 2m bằng tay nắm bọc nhựa  
+ Di chuyển bằng 4 bánh xe  
+11 Giá sách thư viện 
+ Kích thước: (DxRxC): 2000 x 400 x 1900 (mm)  
+ Giá sách hai khoang 4 ngăn. 
+ Khung ống thép sơn tĩnh điện, đợt gỗ melamine dày 18mm 
+12 Bàn bóng bàn 
+ Chất liệu: Ván MDF dày 25 mm.  
+ Chân: ống vuông 50 x 50, 25 x 50,sơn tĩnh điện, hàn bằng công nghệ CO2 tiên tiến.  
+ Khung đố: ống 30 x 60, 30 x 30.  
+ Bánh xe có Khóa  
+ Nẹp viền bàn bằng nhựa  
+ Trọng lượng: 130 kg, không bao bì  
+ Kèm theo 4 cây vợt + 6 trái banh 
+13 Nệm nhảy cao  
+ Kích thước, trọng lượng: 2 x 1.6 x 0.2 m
+14 
+	Trụ cầu lông đa năng L30 + Lưới  
+ Trụ cầu lông thiết kế với bánh xe ở đế di chuyển các vị trí dễ dàng.  
+ Đối trọng được đúc bằng bê tông bên ngoài bọc sắt, sơn màu xanh, nặng khoảng 30kg/đế.   Ngoài việc dùng để chơi cầu lông, Trụ L30 còn có thể dùng cho môn nhảy cao hoặc đá cầu.   Thanh thẳng cắm vào đế có thêm móc để thay đổi Độ cao, trên thanh cột có dán đề can in chiều cao để thay đổi.
+	
+
+	
+
+
+
+243  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+2 TRƯỜNG TIỂU HỌC TRƯỜNG XUÂN 2  
+A PHẦN TRANG THIẾT BỊ BÀN GHẾ  
+I KHỐI PHÒNG HỌC  
+1 Bàn học sinh hai chỗ ngồi (D1,2 x R0,40 x C0,69)m  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D1,2 x R0,40 x C0,69)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Ván mặt bàn gỗ ghép nhóm IV+ Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt bàn gỗ ghép nhóm IV ván dày 20mm  
+ Chân bàn : 40x50mm  
+ Gác chân : 30x50mm  
+ Ngăn bàn gỗ nhóm IV rộng 300mm dày 10mm  
+ Ván bao che ngăn bàn gỗ nhóm IV rộng 150mm dày 10mm 
+2 Ghế học sinh có tựa  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,35 x R0,32 x C1:0,39 x C2:0,75)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Ván mặt bàn gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế gỗ ghép nhóm IV ván dày 20mm  
+ Chân ghế: 30x40mm  
+ Tựa lưng bản 120mm, dày 10mm
+3 
+	Bàn giáo viên: (Bàn 1 thùng, mặt trước bàn đóng vách kín) 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,2 x R0,6 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn: 30x80mm  
+ Chân bàn : 35x50mm 
+	
+
+	
+
+
+
+244  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Gác chân : 30x60mm  
+ Khóa cửa một thùng  
+ Cửa thùng, 2 hột bàn gỗ nhóm IV.  
+ Ván bao che mặt trước và hai bên hông bằng gỗ nhóm IV dày 15mm 
+ Mặt bàn kính trắng dày 5mm. 
+4 Ghế đai đầu bò 
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế : 25x50mm 
+ Tựa lưng bản rộng 100mm, dày 12mm 
+5 Tủ đựng hồ sơ  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D1000 x R450 x C1600) mm  
+ Vật liệu: Toàn bộ bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Phần trên có 3 ngăn mỗi ngăn cao 400mm  
+ Phần dưới có 2 khoang cao 500mm và 2 cánh cửa mở, có khóa. 
+ Đế tủ cao 100mm
+6 
+	Ti vi (LED 55 inch) + giá treo tường  
+ Loại tivi: Smart Tivi 4K 55 inch  
+ Ứng dụng sẵn có: Clip TV; FPT Play; Galaxy Play (Fim+); MyTV; Netflix; Nhaccuatui; POPS Kids; Spotify;  Trình duyệt web; TV 360; VieON; VTVcab ON; YouTube; YouTube Kids; Zing TV;  
+ Kết nối bàn phím, chuột: Bluetooth (Kết nối loa, thiết bị di động)  
+ Tính Năng Khác: ALG Voice Search - tìm kiếm bằng giọng nói tiếng Việt; Tìm kiếm giọng nói trên YouTube bằng  tiếng Việt; Nhận diện giọng nói LG Voice Recognition; Google Assistant (Chưa có tiếng Việt); Alexa (Chưa có  tiếng Việt)  
+ Cổng HDMI: 2 cổng HDMI có 1 cổng HDMI eARC (ARC) 
+	
+
+	
+
+
+
+245  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Cổng USB: 1 cổng  
+ Kích thước không chân, treo tường: Ngang 123.5 cm - Cao 71.5 cm - Dày 5.7 cm  
+ Bao gồm phụ kiện giá treo tường, dây diện và công lắp đặt  
+Hàng chính hãng, đầy đủ CO, CQ 
+7 Lắp đặt hệ thống kết nối mạng cho tivi  
+- Dây kết nối mạng: 25m  
+- Dây HDMI: 10m  
+- Nẹp nhựa 2,0x1,0cm: 15m  
+- Đinh, ốc, vít, tắc kê …: 01 bộ  
+- Chi phí nhân công lắp đặt : 01 bộ 
+8 Bảng từ xanh chống lóa Hàn Quốc  
+- Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D 3,60 x N 1,20)m  
+ Mặt bảng từ chống lóa màu xanh lá sậm có dòng kẻ mờ vuông 50×50 mm, được bảo vệ bằng một lớp nilon.  
+ Khung bảng dày 4cm, sử dụng khung nhôm định hình cao cấp. Các góc nhựa vuốt tròn góc.  
+ Tấm sau bảng bằng vật liệu panen nhựa, có khai để phấn và khăn lau.  
+ Có khay đựng phấn 
+ Gắn trực tiếp lên tường. 
+II PHÒNG HỌP 
+1 
+	Bàn họp hai chỗ ngồi  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,2 x R0,4 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền : 30x60mm  
+ Chân bàn : 35x50mm 
+	
+
+	
+
+
+
+246  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Gác chân : 30x60mm  
+ Ngăn bàn rộng 390mm: dày 15mm  
+ Ván bít 2 bên hông, ván mặt trước bằng gỗ nhóm IV dày 15mm  
+ Mặt bàn kính trắng dày 5mm 
+2 Ghế đai đầu bò  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế : 25x50mm 
+ Tựa lưng bản rộng 100mm, dày 12mm 
+3 Loa treo tường  
+ Loại loa: Loa Karaoke  
+Thông số kỹ thuật cơ bản:  
+ Công suất thực (RMS): 500W  
+ Công suất tối đa: 1000W  
+ Số đường tiếng của loa: 3 đường tiếng: (tiếng bass, tiếng treble, tiếng mid)  
+ Loa chính: Rộng 57,7cm - Cao 38cm - Sâu 32cm  
+ Kết cấu củ loa: 1 loa bass 30cm, 2 loa treble (7,6cm), 2 loa mid (7,6cm)  
+ Kiểu dáng: Loa ngang  
+ Kết nối: Cài dây  
+ Độ nhạy: 92dB  
+ Tần số: 45Hz ~ 20kHz (±3dB)  
+ Trở kháng: 8 ohms  
+ Chất liệu loa/ thùng: Gỗ MDF  
+ Hàng chính hãng, đầy đủ CO, CQ  
+* Bao gồm phụ kiện giá treo tường và công lắp đặt
+4 
+	Amply  
+Thông số kỹ thuật cơ bản: 
+	
+
+	
+
+
+
+247  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Loại amply: Amply karaoke  
+ Số lượng kênh: 2 kênh  
+ Công suất ra loa: 250W/CH (8ohms) / 350W/CH (4ohms)  
+ Tổng công suất: 500W/700W  
+ Tiện ích: Nghe nhạc, hát karaoke  
+ Công nghệ Echo: Kỹ thuật số tiên tiến  
+ Số sò: 12  
+ Loại sò: Sò Toshiba (Nhật Bản)  
+ Điện áp sử dụng: AC 220V/50Hz  
+ Trở kháng: 8ohms/4ohms  
+ Kết nối không dây: Bluetooth aptX  
+ Cổng ra loa: 4  
+ Cổng vào micro: 4  
+ Cổng kết nối: Analog, Optical, Coaxial, Pre-out và to-Amp  
+ Kích thước: 420(R) x 154(C) x 330(S) mm 
+ Trọng lượng: 11.8Kg/ 13Kg 
+5 Micro phát biểu (Dạng cổ ngỗng)  
+Thông số kỹ thuật cơ bản:  
+ Kiểu cổ ngỗng; Chiều dài cáp: 7m 
+ Chất liệu: Nhựa, hộp kim 
+6 Micro không dây SM (1bộ thu + 2 bộ micro)  
+- Loại: Micro không dây.  
+ Đáp tuyến tần số: 40Hz ~ 18KHz 
+ Hàng chính hãng, đầy đủ CO, CQ
+7 
+	Dây loa + Ống luồn dây  
+ Cấu tạo: 4 lớp, PVC chịu lực ngoài trời. vỏ giấy cacbon, sợi phủ ngăn 2 tác dụng, bọc loại PVC (phân biệt 2 màu  Trắng, Đỏ)  
+ Dạng sợi: Sợi tròn  
+ Chất liệu: 2 lõi đồng OFC, 100%  
+ Kích thước lõi: Hợp khối 2 lõi kích thước 2.5mm 
+	
+
+	
+
+
+
+248  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Dây tính theo cuộn 30m 
+ Nẹp nhựa (20 x 30)mm – 30m – Xuất xứ: Việt Nam 
+8 Bục tượng Bác  
+ Hàng gia công  
+ Kích thước : (D0,6 x R0,8 x C1,30)m  
+ Có chạm hoa văn 
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện. 
+9 Tượng Bác Hồ  
+ Kích thước: (C80xR65xW40)cm 
+ Vật liệu: Toàn Bộ bằng thạch cao trắng 
+10 Bục phát biểu  
+ Hàng gia công  
+ Kích thước : (D0,6 x R0,8 x C1,30)m  
+ Có chân đế, Có chạm hoa văn 
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện. 
+11 Màn hội trường 
+ Hàng gia công  
+ Kích thước: (D7,3 x C3,6)m  
+ Vật liệu: Vải thun xốp  
+ Màu sắc: Xanh lá 
+12 Cờ Đảng, Cờ nước Hội Trường 
+ Kích thước: (D1,5x C3,6)m  
+ Vật liệu: Vải thun xốp.  
+ Màu sắc: Màu đỏ 
+13 Sao búa liềm 
+ Chất liệu: Mica alu đồng vàng dày 3mm  
+ Kích thước: Đường kính 40mm
+14 
+	Khẩu hiệu ĐẢNG CỘNG SẢN VIỆT NAM QUANG VINH MUÔN NĂM! 
+ Kích thước: Dài 7,8m; Ngang 0,5m  
+ Vật liệu: Khung nhôm nền tôn dán decal, trước lợp meka trong, chữ meka nổi màu vàng, chiều dày cỡ chữ 4cm, 
+	
+
+	
+
+
+
+249  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+chiều cao chữ 35cm, nền màu đỏ, khung bằng sắt nẹp nhôm. 
+15 Máy điều hòa 2,0HP 
+Thông số kỹ thuật cơ bản:  
+ Công suất lạnh: 2 HP - 18.000 BTU  
+ Loại máy: Điều hoà 1 chiều (chỉ làm lạnh)  
+ Phạm vi làm lạnh hiệu quả: Từ 20 - 30 m2 (từ 60 đến 80 m3)  
+ Công nghệ Inverter: Máy lạnh Inverter  
+ Loại gas sử dụng: R-32 
+ Vật tư: Ống đồng, dây điện, CB, ốc vít, băng keo… 
+III PHÒNG HIỆU TRƯỞNG, HIỆU PHÓ  
+1 Bàn làm việc (Trưởng phó phòng)  
+ (Bàn 2 thùng, mặt trước bàn đóng vách kín)  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,6 x R0,8 x C0,8)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  
+thiện.  
+ Ván mặt bàn dày 18mm - Khung viền mặt bàn : 30x120mm  
+ Chân bàn : 40x50mm - Gác chân : 30x60mm  
+ Khóa cửa 2 thùng, có hộc bàn ở giữa.  
+ Mặt bàn kính trắng 8mm + Vải mặt bàn  
+2 Ghế chạm hoa văn (Trưởng phó phòng)  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,45 x R0,45 x C1: 0.49 x C2:1.45)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Ván mặt ghế dày 18mm  
+ Tựa lưng chạm hoa văn 
+3 
+	Bàn tiếp khách 06 chỗ ngồi (mặt bàn kính 8mm)  
+ Hàng gia công 
+	
+
+	
+
+
+
+250  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+Thông số kỹ thuật cơ bản:  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + sơn PU 3 lớp, phủ bóng hoàn thiện.  
+* Bàn:  
+ Kích thước : (N 0,8 x D 1,6 x C 0,7)m  
+ Mặt bàn rộng 620mm, dày12mm.  
+ Chân bàn: 80x80mm  
+ Kính trắng dày 8mm  
+* Ghế ngồi:  
+ Kích thước : (D0,4 x R0,44x C0.44)m  
+ Mặt ghế dày 18mm  
+ Chân ghế : 25x50mm  
+ Tựa thanh thẻ dày 12mm  
+4 Tủ đựng hồ sơ  
+ Hàng gia công  
+ Vật liệu: Toàn bộ bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Kích thước: (D1000 x R450 x C1900) mm  
+ Phần trên gồm 2 cánh cửa kính dày 5mm, có khóa, bên trong có 3 ngăn mỗi ngăn cao 500mm  
+ Phần dưới có 2 cánh cửa gỗ, có khóa, bên trong có 1 ngăn cao 600mm  
+ Đế tủ cao 100mm 
+5 
+	Bộ máy tính để bàn FPT Elead T12100i  
+* Màn hình máy tính 
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)   Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4 
+	
+
+	
+
+
+
+251  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1  port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  
+connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  
+bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.  
+ Keyboard: Standard USB (Đồng bộ với thương hiệu)  
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu)  
+6 Máy in  
+Thông số kỹ thuật cơ bản:  
+ Kiểu máy in: In laser trắng đen  
+ Độ phân giải: 2400 x 600 dpi  
+ Kết nối: Cổng USB 2.0 tốc độ cao 
+ Khổ giấy in: A4, B5, A5, LGL, LTR, Executive, Giấy in bì thư C5/COM10/DL, Monarch 
+7 Máy điều hòa 1,0HP 
+Thông số kỹ thuật cơ bản:  
+ Công suất lạnh:1 HP - 9.000 BTU  
+ Loại máy: Điều hoà 1 chiều (chỉ làm lạnh)  
+ Phạm vi làm lạnh hiệu quả: Dưới 15 m2 (từ 30 đến 45 m3)  
+ Công nghệ Inverter: Máy lạnh Inverter  
+ Loại gas sử dụng: R-32 
+ Vật tư: Ống đồng, dây điện, CB, ốc vít, băng keo… 
+IV VĂN PHÒNG + KẾ TOÁN 
+1 
+	Bàn giáo viên: (Bàn 2 thùng, mặt trước bàn đóng vách kín)  
+ Hàng gia công 
+	
+
+	
+
+
+
+252  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,4 x R0,7 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  
+thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn : 30x60mm  
+ Đố thùng : 40x40mm - Ván thùng gỗ nhóm IV dày 15mm  
+ Gác chân : 30x60mm 
+ Mặt bàn kính trắng dày 5mm + Vải mặt bàn. 
+2 Ghế đai đầu bò  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế : 25x50mm 
+ Tựa lưng bản rộng 100mm, dày 12mm
+3 
+	Bộ máy tính để bàn  
+ * Màn hình máy tính 
+ Kích thước 21.5" LED  
+ Độ phân giải: 1920 x 1080 (Full HD  
+ Cổng kết nối: 1x VGA, 1x DVI-D  
+ Phụ kiện: Cáp nguồn, Cáp VGA, Hướng dẫn sử dụng  
+* Máy tính đồng bộ thương hiệu - Sản xuất trên dây chuyền công nghiệp (ISO 9001:2015; ISO 14001 : 2015; ISO  17025 : 2017)  
+ CPU: Intel® Core™ i3 12100 Processor (3.30Ghz Max Turbo 4.30GHz /12MB Intel® SmartCache/4C/8T)   Mainboard: Chipset Intel H610 Express LGA1700 S/p Intel Core i7 + i5 + i3, 6 x DIMM DDR4  3200/3000/2933/2800/2666MHz support Intel(R) XMP, VGA & Sound 08 Channel & 1 x LAN port LANGUARD  Gigabit onboard, 3 x PCIe 4.0/3.0 x16 slot, 1 x PCI slot, 1 x Parallel connector, 1 x D-Sub Port, 1 x DVI-D port, 1  xHDMI port, 1 x Display port, 2 x COM (1 x COM port at back panel, 1 x COM connector ), 12 USB (4 x USB 3.1 
+	
+
+	
+
+
+
+253  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+port(s) (2 at back panel (included 1 Type C), 8 x USB 2.0 (6 port at midboard via 3 x USB connector, 2 x USB 2.0  port at rear panel), 1 x M.2 2280, 2260, 2242 (Gen3 x4 PCIE mode); 4 x SATA 6.0 Gb/s Ports, 1 x SPDIF out  
+connector, 1 x Chassis intrusion header, 1 x TPM header. integrated CSM_Coporate Stable Modelsoftware (đồng  
+bộ thương hiệu)  
+ RAM: 8GB DDR4 bus 2666  
+ SSD: SSD 256GB  
+ Case & PSU: mATX front usb & audio with PSU 450W (Đồng bộ với thương hiệu)  
+ Tính năng tích hợp: Có nút recovery giúp người dùng khôi phục hệ thống ngay khi hệ điều hành gặp sự cố.  
+ Keyboard: Standard USB (Đồng bộ với thương hiệu) 
+ Mouse: Optical Scroll USB (Đồng bộ với thương hiệu) 
+4 Máy in  
+Thông số kỹ thuật cơ bản:  
+ Khổ giấy: A6; A5; A4  
+ Tốc độ bộ xử lý: 1200 MHz  
+ Bộ nhớ: 256MB  
+ Tốc độ in đen trắng: Lên đến 40 trang/phút  
+ In trang đầu tiên: As fast as 6.3 sec  
+ Màn hình: 2-line backlit LCD graphic display  
+ Độ phân giải: Up to 1200 x 1200 dpi  
+ Cổng giao tiếp: 1 Hi-Speed USB 2.0; 1 host USB at rear side; Gigabit Ethernet 10/100/1000BASE-T network;  802.11b/g/n / 2.4 / 5 GHZ Wi-Fi radio  
+ Khay giấy: Khay nạp giấy 100 tờ - Out put : 150 sheet  
+ Chu kỳ nhiệm vụ (hàng tháng, A4): Lên đến 80.000 trang  
+ Ngôn ngữ print: HP PCL 6, HP PCL 5c, HP postscript level 3 emulation, PDF, URF, PWG Raster  
+ Khả năng in di động: Apple AirPrint™; Google Cloud Print™; HP ePrint; HP Smart App; Mobile Apps; Mopria™  Certified; ROAM capable for easy printing; Wi-Fi® Direct printing  
+ Hệ điều hành tương thích: Windows Client OS (32/64 bit), Win10, Win8.1, Win 8 Basic, Win8 Pro, Win8  
+Enterprise, Win8 Enterprise N, Win7 Starter Edition SP1, UPD Win7 Ultimate, Mobile OS, iOS, Android, Mac,  
+Apple® macOS Sierra v10.12, Apple® macOS High Sierra v10.13, Apple® macOS Mojave v10.14
+5 
+	Máy Scan 
+	
+
+	
+
+
+
+254  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Độ sâu màu quét: 48-bit. 
+ Tốc độ scan : 10 giây 
+ Độ phân giải: 4800 x 4800 dpi 
+ Độ phân giải quang học: 2.400 x 4.800dpi  
+* Hàng chính hãng, đầy đủ CO, CQ
+6 
+	Máy Photocopy 
+Thông số kỹ thuật cơ bản: 
+ Bao gồm: 
+ Mực MP2014S 
+ Chân máy 2015/2018 
+ Thông số chung: 
+ Phương thức in : Laser 
+ Chức năng: In-Scan-Copy 
+ Tốc độ sao chụp: 27 bản / phút 
+ Thời gian khởi động : 27 giây 
+ Thời gian in bản đầu tiên : 6.5 giây 
+ Màn hình điều khiển: màn hình thông tin SOP 7-inch 
+ Bộ nhớ tiêu chuẩn: 2GB + 16GB Micro SD 
+ Dung lượng khay ARDF: 100 tờ 
+ Trọng lượng thân máy: 46,5kg 
+ Kích thước: 587 x 581 x 677 mm 
+ Nguồn điện: 220-240v 50/60Hz 
+ Chức năng sao chụp 
+ Chia bộ điện tử: Có sẵn 
+ Chức năng đảo mặt bản gốc : Có sẵn (ARDF) 
+ Chức năng đảo mặt bản sao : Có sẵn (Duplex) 
+ Sao chụp liên tục đến 999 bản 
+ Độ phân giải copy : 600 x 600 dpi 
+ Tỷ lệ phóng thu: 25 - 400% tăng giảm từng 1% 
+ Chức năng in 
+ Bộ xử lý: ARM Cortex A53 800 MHz 
+	
+
+	
+
+
+
+255  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ 
+
+
+	 Ngôn ngữ in: có sẵn PCL5e/6, PDF  
+ Có sẵn chức năng: In /Scan màu(cổng mạng)  
+ Độ phân giải: 600 x 600 dpi  
+ Kết nối mạng: Ethernet (1000/100/10BASE), Wireless LAN IEEE802.11a/b/g/n), USB 2.0-Device (Type-B),  USB 2.0-Host.  
+ Ứng dụng hỗ trợ in di động (Mobile Print): Apple Airprint, Mopria, Google Cloud Print  
+ Hệ điều hành hỗ trợ : Windows® 7/8/8.1/10, Windows® Server 2003/ 2008/ 2012/2016, Mac OS X (V10.11 or  Later), UNIX Sun® Solaris, HP-UX, SCO OpenServer, RedHat® Linux, IBM® AIX. Sap® R/3, Sap® S/4®   Chức năng Scan  
+ Tốc độ Scan: 50 trang /phút (trắng đen/màu).  
+ Độ phân giải: 600 dpi  
+ Định dạng tập tin gửi: Đơn và đa trang TIFF  
+ Đơn và đa trang PDF  
+ Trang đơn JPEG (greyscale)  
+ Đơn và đa trang PDF chất lượng nén cao  
+ Scan đến: Floder, Email, Network twain và USB  
+ Xử lý giấy  
+ Khổ giấy hỗ trợ: A3,A4,A5,A6,B4,B5,B6  
+ Khay giấy đầu vào tiêu chuẩn : 1 khay x 500 tờ  
+ Dung lượng giấy đầu ra: 250 tờ  
+ Khay Tay: 100 tờ  
+ Định lượng giấy: khay trong 52-105 g/m2 
+ Khay tay 60-216g/m2 
+ Nguồn điện  
+ Mức độ tiêu thụ điện công suất tối đa ít hơn 1.550 W  
+ - Chế độ chờ ít hơn 113 W  
+ - Chế độ nghỉ ít hơn 4 W  
+ - Mức tiêu thụ điện năng (TEC) ít hơn 1,309 KWh  
+ Hệ thống tái sử dụng mực thải giúp tiết kiệm mực,  
+ thân thiện môi trường 
+	
+
+	
+
+
+
+256  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Công suất sao chụp: 10,000 bản /tháng  
+ Năm sản xuất : 2022 trở về sau 
+7 Tủ đựng hồ sơ  
+ Hàng gia công  
+ Vật liệu: Toàn bộ bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Kích thước: (D1000 x R450 x C1900) mm  
+ Phần trên gồm 2 cánh cửa kính dày 5mm, có khóa, bên trong có 3 ngăn mỗi ngăn cao 500mm  
+ Phần dưới có 2 cánh cửa gỗ, có khóa, bên trong có 1 ngăn cao 600mm 
+ Đế tủ cao 100mm 
+8 Bảng công khai tài chính  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Vật liệu: Khung sắt, viền nhôm, nền alu dán đề can + cửa kính lùa  
+ Kích thước: D2,2m x C1,2m  
+ Mặt dán đề can in nội dung theo yêu cầu  
+ Có 2 cửa kính lùa 5mm + chốt khóa 
+V PHÒNG Y TẾ + HỔ TRỢ HSKT  
+1 Bàn giáo viên: (Bàn 2 thùng, mặt trước bàn đóng vách kín)  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,4 x R0,7 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  
+thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn : 30x60mm  
+ Đố thùng : 40x40mm - Ván thùng gỗ nhóm IV dày 15mm  
+ Gác chân : 30x60mm 
+ Mặt bàn kính trắng dày 5mm + Vải mặt bàn.
+2 
+	Ghế đai đầu bò  
+ Hàng gia công 
+	
+
+	
+
+
+
+257  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế : 25x50mm 
+ Tựa lưng bản rộng 100mm, dày 12mm 
+3 Tủ thuốc 5 tầng  
+ Hàng gia công  
+ Gồm 2 khoang:  
+ Khoang trên cao 900mm có 2 cánh lắp kính màu trắng dầy 5mm, có khoá, có chốt chắc chắn.  
+ Có 2 đợt kính dầy 5mm.  
+ Khoang dưới cao 600mm có 2 cánh bằng inox, có chốt và khoá chắc chắn; có 1 sàn phẳng bằng kính 5mm.  
+ Khung tủ làm bằng inox hộp 25x25mm.  
+ Khung cánh tủ làm bằng inox hộp 20x20mm.  
+ Cánh tủ có tay nắm inox, đóng mở nhẹ nhàng.  
+ Tủ được làm bằng inox có độ bóng BA. 
+ Các chân tủ có đệm cao su.
+4 
+	Giường bệnh nhân  
+ Hàng gia công  
+ Giát giường được chia thành 4 khúc  
+ Kích thước: (1.900 x 900 x 550)mm (DxRxC)  
+ Khung giường: Thành hộp rộng (30 x 60 x 0.6)mm  
+ Đầu và đuôi giường: Ống inox dày 0.8 mm, f32mm  
+ Giát giường: Dày 0,6mm, d= 16mm  
+ Thanh đỡ giát giường: dày 0,6mm, vuông 20mm  
+ Có tay quay để nâng đầu giường góc độ từ 0 đến 75 độ, nâng đuôi giường góc từ 0 đến 35 độ   Có 04 bánh xe 100mm (02 bánh xe có khoá)  
+ Kết cấu giữa đầu giường, khung giường, đuôi giường bulon M8 theo  
+ Kiểu chữ A hoặc côn sập. 
+ Nệm bọc simily dày 7cm.
+	
+
+	
+
+
+
+258  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+5 Xe đẩy ngồi (Dành cho người khuyết tật)  
+ Mã sản phẩm: Xe lăn thường X9 
+ Xe có gắn 2 vòng lăn hai bên, giúp cho việc tự di chuyển 
+ Có hai tay đẩy phía sau để có người nhà giúp di chuyển dễ dàng. 
+ Độ rộng ghế ngồi: 46cm 
+ Khung xe làm bằng sắt mạ crom. 
+ Chỗ ngồi bằng chất liệu da simili màu đen. 
+ Tấm đặt chân bằng nhôm đúc hợp kim 
+ Vành xe nan hoa tải trọng 120 kg 
+ Bánh trước rộng 8″, xoay 360o 
+ Bánh sau 24", bánh đặc 
+ Trọng lượng tịnh: 17,3kg 
+ Trọng lượng tổng: 19,3kg 
+ Sản phẩm đạt các chứng chỉ: FDA của Mỹ, TUV, ISO 9001, ISO 13485 : 2003
+6 
+	Máy lọc nước nóng lạnh  
+Thông số kỹ thuật cơ bản: 
+ Công nghệ lọc: Thẩm thấu ngược RO 
+ Số lõi lọc: 10 lõi 
+ Lõi lọc thô: 
+ Lõi 1: PP 5 micron (Sx Việt Nam) 
+ Lõi 2: Than hoạt tính (Sx Việt Nam) 
+ Lõi 3: PP 1 micron (Sx Việt Nam) 
+ Lõi RO/Nano/UF: RO 75 GPD sản xuất Hàn Quốc 
+ Lõi chức năng: 
+ Lõi 5: Nano Sliver (Sx Việt Nam) 
+ Lõi 6: Đá Maifan (Sx Việt Nam) 
+ Lõi 7: Alkaline (Sx Việt Nam) 
+ Lõi 8: Hồng Ngoại (Sx Việt Nam) 
+ Lõi 9: Hydrogen (Sx Việt Nam) 
+ Lõi 10: Than hoạt tính trắng (Sx Việt Nam) 
+	
+
+	
+
+
+
+259  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Bảng điều khiển: Nút vặn  
+ Chỉ số nước: pH Không  
+ Dung tích bình chứa: Tổng 7 lít (Nước nóng 1 lit, nước lạnh 2 lít, nước thường 4 lít)  
+ Tỉ lệ lọc - thải: Lọc 3 - Thải 7  
+ Công suất lọc nước: 10 - 15 lít/giờ  
+ Công suất tiêu thụ điện: 0.62 kW/h  
+ Áp lực nước yêu cầu: > 3 psi  
+ Kháng khuẩn: Lõi Nano Sliver kháng khuẩn  
+ Nhiệt độ nước: Nóng 85 - 95°C, Lạnh 10 - 15°C  
+ Hệ thống làm lạnh: Bằng công nghệ Block  
+ Hệ thống bơm và van điều tiết: Bơm - hút 2 chiều, van điện từ  
+ Kích thước: Ngang 32 cm - Cao 100 cm - Sâu 40 cm - Nặng 32 kg.  
+ Tiện ích:  
+ Chế độ cút nối nhanh dễ dàng thay lõi 
+ Ngừng hoạt động khi nước đầy bình 
+ Trung hòa độ pH ổn định độ ngọt cho nước 
+ Tạo nước kiềm (Alkaline) trung hòa axit cho cơ thể 
+VI PHÒNG TRUYỀN THỐNG + ĐOÀN THỂ  
+1 Bộ bàn ghế inox mặt kiếng chân phi thuyền cao cấp 1,6m  
+(Khung inox, mặt bàn kính 10mm)  
+ Vật liệu: Inox 304  
+ Kích thước:  
+ Mặt bàn: 1,6x1,0m  
+ 6 ghế: Ø25x1,0mm; cao 1,6m, bọc nệm  
+ Mặt bàn kính trắng 10 mm
+2 
+	Tủ trưng bày sách  
+ Hàng gia công  
+ Kích thước: (C1,6 x D2,0 x W0,45)m  
+ Vật liệu: Khung và vách sau gỗ nhóm IV + sơn Pu 3 lớp, phủ bóng hoàn thiện  
+ Trên có 04 cánh cửa lùa chia 04 khoang, 02 ngăn riêng biệt gỗ nhóm IV và cửa đẩy kính 5mm + ổ khóa, mỗi 
+	
+
+	
+
+
+
+260  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+khoang cách nhau cao 0,3m 
+ Dưới có 04 cánh cửa mở, 02 ngăn riêng biệt bằng gỗ nhóm IV + ổ khóa, cao 0,4m. 
+3 Tủ trưng bày sách (01 ngăn + 01 hộc) 
+ Hàng gia công  
+ Kích thước: (C1,2 x D2,0 x W0,45)m  
+ Vật liệu: Khung và vách sau gỗ nhóm IV + sơn PU 3 lớp, phủ bóng hoàn thiện  
+ Trên có 02 cánh cửa lùa gỗ nhóm IV và cửa đẩy kính 5mm + ổ khóa, cao 0,4m 
+ Dưới có 04 cánh cửa mở, 02 ngăn riêng biệt, có 02 khoang bằng gỗ nhóm IV + ổ khóa, cao 0,8m. 
+4 Bàn trưng bày mô hình trường học  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước: (D1,5 x R0,8 x C0,85)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn bằng gỗ ghép nhóm IV (gỗ thông) + Sơn PU 3 lớp, phủ bóng  hoàn thiện.  
+ Mặt bàn bằng gỗ ghép IV (gỗ thông) rộng 720mm, dày 12mm.  
+ Viền mặt bàn : 30x140mm  
+ Chân bàn : 85x85mm  
+ Kiềng mặt bàn: 25x150mm  
+ Thanh ngang gác mặt bàn: 20x40mm  
+ Khung kính trắng dày 8mm, cao 500mm 
+ Mặt bàn lót trong khung kính vải nhung màu đỏ 
+5 Bục tượng Bác  
+ Hàng gia công  
+ Kích thước : (D0,6 x R0,8 x C1,30)m  
+ Có chạm hoa văn 
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện. 
+6 Tượng Bác Hồ  
+ Kích thước: (C80xR65xW40)cm 
+ Vật liệu: Toàn Bộ bằng thạch cao trắng
+7 
+	Bảng "NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM!" 
+	
+
+	
+
+
+
+261  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Kích thước: (0,5m x 6,0m) 
+ Vật liệu: Mica trong suốt loại tốt, dán decal nội dung, chữ vàng, nền màu đỏ, khung bằng sắt nẹp nhôm. 
+8 Màn Cờ Đảng, Cờ nước Hội Trường 
+ Kích thước: (D1,5 x C3,6)m  
+ Vật liệu: Vải thun xốp. 
+ Màu sắc: Màu đỏ 
+9 Sao búa liềm 
+ Chất liệu: Mica alu đồng vàng dày 3mm 
+ Kích thước: Đường kính 40mm 
+10 Bảng câu khẩu hiệu 
+ Kích thước: (3,75 x 0,4)m  
+ Tiêu đề:  
+Bảng 1: " DÙ KHÓ KHĂN ĐẾN ĐÂU CŨNG PHẢI THI ĐUA DẠY TỐT HỌC TỐT"  
+Bảng 2: " DÂN TA PHẢI BIẾT SỬ TA CHO TƯỞNG GỐC TÍCH NƯỚC NHÀ VIỆT NAM"  
+ Vật liệu: Mica trong suốt loại tốt, dán decal nội dung, chữ vàng, nền màu đỏ, khung bằng sắt nẹp nhôm. 
+VII PHÒNG NGHỈ GIÁO VIÊN  
+1 Bộ bàn ghế inox mặt kiếng chân phi thuyền cao cấp 1,6m 
+(Khung inox, mặt bàn kính 10mm)  
+ Vật liệu: Inox 304  
+ Kích thước:  
+ Mặt bàn: 1,6x1,0m  
+ 6 ghế: Ø25x1,0mm; cao 1,6m, bọc nệm  
+ Mặt bàn kính trắng 10 mm 
+2 Tủ locker 18 ngăn  
+ Kích thước: W1807 x D350 x H1132 mm  
+ Chất liệu: Thép sơn tĩnh điện  
+ Màu sắc: Xanh và Ghi sáng  
+ Tủ Locker sắt để đồ Hòa Phát  
+ Tủ gồm 18 khoang cánh mở. 
+ Trên mỗi cánh có 1 khóa locker, núm tay nắm và bảng tên.
+VIII 
+	PHÒNG ĐỌC GIÁO VIÊN
+	
+
+	
+
+
+
+262  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+1 Bộ bàn ghế inox mặt kiếng chân phi thuyền cao cấp 1,6m 
+(Khung inox, mặt bàn kính 10mm)  
+ Vật liệu: Inox 304  
+ Kích thước:  
+ Mặt bàn: 1,6x1,0m  
+ 6 ghế: Ø25x1,0mm; cao 1,6m, bọc nệm  
+ Mặt bàn kính trắng 10 mm 
+IX PHÒNG ĐỌC HỌC SINH + KHO  
+1 Bàn đọc sách thư viện (6 chỗ ngồi)  
+ Hàng gia công  
+ Vật liệu: Chân thép hộp + Mặt bàn gỗ ghép nhóm IV (gỗ ghép) + sơn PU 3 lớp, phủ bóng hoàn thiện.  
+ Kích thước: (D1,8m x R0,8m x C0,75m).  
+ Ván mặt bàn dày 20mm  
+ Vách ngăn bàn cao 400cm dày 20mm 
+ Chân thép hộp 20x30mm, dày 1,2mm 
+2 Ghế xếp Inox  
+Chất liệu: Chân Inox, đệm PVC  
+ Kích thước: W445 x D505 x H850mm  
+ Khung ống inox Ø22.  
+ Đệm ngồi, Tựa lưng mút bọc nỉ, Chân đệm cao su 
+ Màu sắc: Màu xanh dương
+3 
+	Bàn giáo viên: (Bàn 1 thùng, mặt trước bàn đóng vách kín)  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D1,2 x R0,6 x C0,78)m  
+ Vật liệu: Toàn bộ khung bằng gỗ nhóm IV + Mặt bàn ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn  thiện.  
+ Ván mặt bàn gỗ ghép nhóm IV dày 18mm  
+ Khung viền mặt bàn: 30x80mm  
+ Chân bàn : 35x50mm 
+	
+
+	
+
+
+
+263  
+STT TÊN TÀI SẢN  
+ĐẶC ĐIỂM KINH TẾ - KỸ THUẬT GHI CHÚ  
+ Gác chân : 30x60mm  
+ Khóa cửa một thùng  
+ Cửa thùng, 2 hột bàn gỗ nhóm IV.  
+ Ván bao che mặt trước và hai bên hông bằng gỗ nhóm IV dày 15mm 
+ Mặt bàn kính trắng dày 5mm. 
+4 Ghế đai đầu bò  
+ Hàng gia công  
+Thông số kỹ thuật cơ bản:  
+ Kích thước : (D0,4 x R0,39 x C1: 0.45 x C2:1.03)m  
+ Vật liệu: Toàn bộ bằng gỗ nhóm IV + Mặt ghế ván bằng gỗ ghép nhóm IV + Sơn PU 3 lớp, phủ bóng hoàn thiện.   Mặt ghế ván bằng gỗ ghép nhóm IV dày 18mm  
+ Chân ghế : 25x50mm 
+ Tựa lưng bản rộng 100mm, dày 12mm 
+5 Giá sách thư viện  
+ Model: Hòa Phát GTV101 (4 tầng)  
+ Kích thước: (DxRxC): 2000 x 400 x 1900 (mm)  
+ Giá sách hai khoang 4 ngăn. 
+ Khung ống thép sơn tĩnh điện, đợt gỗ melamine dày 18mm 
+6 Tủ trưng bày sách  
+ Hàng gia công  
+ Kích thước: (C1,6 x D2,0 x W0,45)m  
+ Vật liệu: Khung và vách sau gỗ nhóm IV + sơn Pu 3 lớp, phủ bóng hoàn thiện  
+ Trên có 04 cánh cửa lùa chia 04 khoang, 02 ngăn riêng biệt gỗ nhóm IV và cửa đẩy kính 5mm + ổ khóa, mỗi  
+khoang cách nhau cao 0,3m 
+ Dưới có 04 cánh cửa mở, 02 ngăn riêng biệt bằng gỗ nhóm IV + ổ khóa, cao 0,4m.
+7 
+	Tủ phích thư viện (16 hộc)  
+ Hàng gia công  
+ Kích thước: D1000xR700xC460mm  
+ Có 16 hộc tủ nhỏ  
+ Tủ làm Toàn bằng gỗ ghép nhóm IV + sơn phủ PU 3 lớp, phủ bóng hoàn thiện
